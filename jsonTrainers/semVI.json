@@ -1,0 +1,171 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Data Analytics and Visualization course (ADC601) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADC601?"},
+            {"role": "assistant", "content": "The objectives of ADC601 include introducing the data analytics lifecycle, developing mathematical concepts for advanced regression, understanding data modeling in time series, creating awareness about text analytics, and providing overviews of data analytics and visualization with R and Python."},
+            {"role": "user", "content": "What are the expected outcomes of ADC601?"},
+            {"role": "assistant", "content": "After completing ADC601, students should comprehend basics of data analytics and visualization, apply various regression models, demonstrate advanced understanding of time series concepts, analyze text data, and experiment with analytics techniques and visualization using R and Python."},
+            {"role": "user", "content": "Are there any module topics covered in ADC601?"},
+            {"role": "assistant", "content": "Yes, ADC601 covers introduction to data analytics lifecycle, regression models, time series analysis, introduction to data visualization, introduction to D3.js, and data analytics and visualization with Python."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Cryptography and System Security course (ADC602) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADC602?"},
+            {"role": "assistant", "content": "The objectives of ADC602 include exploring encryption techniques, cryptographic algorithms, authentication protocols, secure communication standards, and cryptographic utilities to design secure applications."},
+            {"role": "user", "content": "What are the expected outcomes of ADC602?"},
+            {"role": "assistant", "content": "After completing ADC602, students should be able to identify information security goals, apply encryption and decryption techniques, evaluate message digest algorithms, apply digital signature schemes, analyze network security basics, and design secure applications using cryptographic utilities."},
+            {"role": "user", "content": "Are there any module topics covered in ADC602?"},
+            {"role": "assistant", "content": "Yes, ADC602 covers introduction & number theory, block ciphers & public key cryptography, cryptographic hashes, message digests & digital certificates, digital signature schemes & authentication protocols, system security, and web security."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Software Engineering and Project Management course (ADC603) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADC603?"},
+            {"role": "assistant", "content": "The objectives of ADC603 include providing knowledge of software engineering discipline, understanding requirements, planning and scheduling, analyzing and developing software solutions, and demonstrating real-time projects with respect to software engineering principles."},
+            {"role": "user", "content": "What are the expected outcomes of ADC603?"},
+            {"role": "assistant", "content": "After completing ADC603, students should understand and use basic knowledge in software engineering, identify requirements and analyze them, plan and track project progress, design and develop software solutions, apply testing for quality assurance, and generate project schedules."},
+            {"role": "user", "content": "Are there any module topics covered in ADC603?"},
+            {"role": "assistant", "content": "Yes, ADC603 covers introduction to software engineering, requirements analysis and cost estimation, design engineering, software risk and configuration management, software testing and maintenance, and IT project management and project scheduling."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Machine Learning course (ADC604) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADC604?"},
+            {"role": "assistant", "content": "The objectives of ADC604 include introducing machine learning concepts, developing mathematical concepts required for machine learning algorithms, understanding regression and clustering techniques, developing neural network models, and applying dimensionality reduction techniques."},
+            {"role": "user", "content": "What are the expected outcomes of ADC604?"},
+            {"role": "assistant", "content": "After completing ADC604, students should comprehend basics of machine learning, build mathematical foundation for machine learning, understand various machine learning models, select suitable models for given problems, build neural network based models, and apply dimensionality reduction techniques."},
+            {"role": "user", "content": "Are there any module topics covered in ADC604?"},
+            {"role": "assistant", "content": "Yes, ADC604 covers introduction to machine learning, mathematical foundation for machine learning, linear models, clustering, classification models, and dimensionality reduction."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the High Performance Computing course (ADLO6011) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADLO6011?"},
+            {"role": "assistant", "content": "The objectives of ADLO6011 include learning the concepts of high-performance computing, gaining knowledge of platforms for high performance computing, designing and implementing algorithms for parallel programming applications, analyzing performance metrics, understanding parallel programming paradigm, algorithms, and applications, and demonstrating understanding of different high performance computing tools."},
+            {"role": "user", "content": "What are the expected outcomes of ADLO6011?"},
+            {"role": "assistant", "content": "After completing ADLO6011, students should understand the fundamentals of parallel computing, describe different parallel processing platforms, demonstrate principles of parallel algorithms, evaluate performance of HPC systems, apply HPC programming paradigm to parallel applications, and discuss different current HPC platforms."},
+            {"role": "user", "content": "Are there any module topics covered in ADLO6011?"},
+            {"role": "assistant", "content": "Yes, ADLO6011 covers introduction to parallel computing, parallel programming platforms, parallel algorithm and concurrency, performance measures for HPC, programming paradigms for HPC, and GPU architecture and programming."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Distributed Computing course (ADLO6012) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADLO6012?"},
+            {"role": "assistant", "content": "The objectives of ADLO6012 include providing contemporary knowledge in distributed systems, equipping students with skills to analyze and design distributed applications, mastering skills in performance measurement of distributed synchronization algorithms, understanding resource availability, and mastering distributed file systems."},
+            {"role": "user", "content": "What are the expected outcomes of ADLO6012?"},
+            {"role": "assistant", "content": "After completing ADLO6012, students should demonstrate knowledge of basic elements and concepts related to distributed system technologies, illustrate middleware technologies supporting distributed applications, analyze clock synchronization and mutual exclusion techniques, demonstrate concepts of resource and process management, consistency, and replication management, and apply knowledge of distributed file systems."},
+            {"role": "user", "content": "Are there any module topics covered in ADLO6012?"},
+            {"role": "assistant", "content": "Yes, ADLO6012 covers introduction to distributed systems, communication, synchronization, resource and process management, consistency, replication and fault tolerance, and distributed file systems and name services."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Image Processing and Computer Vision course (ADLO6013) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADLO6013?"},
+            {"role": "assistant", "content": "The objectives of ADLO6013 include introducing students to basic concepts of image processing and file formats, providing an in-depth understanding of image enhancement techniques, gaining knowledge of image segmentation and compression techniques, acquiring fundamentals of image transform techniques, and introducing fundamental understanding of video processing."},
+            {"role": "user", "content": "What are the expected outcomes of ADLO6013?"},
+            {"role": "assistant", "content": "After completing ADLO6013, students should gain fundamental knowledge of image processing, apply image enhancement techniques, apply image segmentation and compression techniques, gain an in-depth understanding of image transforms, and gain fundamental understanding of video processing."},
+            {"role": "user", "content": "Are there any module topics covered in ADLO6013?"},
+            {"role": "assistant", "content": "Yes, ADLO6013 covers digital image fundamentals, image enhancement in spatial domain, image compression, morphology and restoration, corner and interest point detection, point, line, and edge detection, region-based segmentation, region identification, and motion."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Data Analytics and Visualization Lab (ADL601) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADL601?"},
+            {"role": "assistant", "content": "The objectives of ADL601 include effectively using libraries for data analytics, understanding regression techniques, using time series models for prediction, introducing text analytics, and applying suitable visualization techniques using R and Python."},
+            {"role": "user", "content": "What are the expected outcomes of ADL601?"},
+            {"role": "assistant", "content": "After completing ADL601, students should be able to explore various data analytics libraries in R and Python, implement regression techniques for prediction, build time series models, design text analytics applications, and implement visualization techniques using R and Python."},
+            {"role": "user", "content": "Are there any suggested experiments in ADL601?"},
+            {"role": "assistant", "content": "Yes, students are required to complete at least 8 experiments, preferably using R Programming Language/Python. Some of the experiments include getting introduced to data analytics libraries, simple linear regression, multiple linear regression, time series analysis, ARIMA model implementation, and visualization experiments."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Cryptographic and System Security Lab (ADL602) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADL602?"},
+            {"role": "assistant", "content": "The objectives of ADL602 include applying symmetric cryptography, analyzing and implementing public key algorithms, evaluating hashing algorithms, exploring network reconnaissance tools, and using tools like sniffers, port scanners, and firewalls for network analysis."},
+            {"role": "user", "content": "What are the expected outcomes of ADL602?"},
+            {"role": "assistant", "content": "After completing ADL602, students should be able to apply symmetric cryptography, analyze and implement public key algorithms, evaluate hashing algorithms, explore network reconnaissance tools, use packet sniffers and port scanners, and set up firewalls and intrusion detection systems."},
+            {"role": "user", "content": "Are there any suggested experiments in ADL602?"},
+            {"role": "assistant", "content": "Yes, students are required to complete at least 10 experiments, including designing and implementing a product cipher, analyzing RSA cryptosystem, implementing Diffie Hellman Key exchange algorithm, testing message integrity using MD-5 and SHA-1, exploring wireless security tools, studying network reconnaissance tools, using packet sniffer tools, and setting up IPSEC and Snort."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Software Engineering and Project Management Lab (ADL603) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADL603?"},
+            {"role": "assistant", "content": "The objectives of ADL603 include understanding DevOps practices, version control tools like GIT, integrating and deploying tools like Jenkins and Maven, using Docker for containerization, and understanding infrastructure as code using Ansible."},
+            {"role": "user", "content": "What are the expected outcomes of ADL603?"},
+            {"role": "assistant", "content": "After completing ADL603, students should understand DevOps fundamentals, version control systems, Jenkins for software application building and deployment, Docker for containerization, and Ansible for software configuration and provisioning."},
+            {"role": "user", "content": "Are there any suggested experiments in ADL603?"},
+            {"role": "assistant", "content": "Yes, students are required to complete at least 10 experiments, including understanding DevOps principles, setting up version control with Git and GitHub, configuring Jenkins for continuous integration, learning Docker and Dockerfile, and provisioning infrastructure using Puppet."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Machine Learning Lab (ADL604) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADL604?"},
+            {"role": "assistant", "content": "The objectives of ADL604 include introducing platforms such as Anaconda and COLAB suitable for machine learning, implementing various regression techniques, developing neural network-based learning models, and implementing clustering techniques."},
+            {"role": "user", "content": "What are the expected outcomes of ADL604?"},
+            {"role": "assistant", "content": "After completing ADL604, students should be able to implement various machine learning models, apply them to given problems, develop neural network-based models, and apply dimensionality reduction techniques."},
+            {"role": "user", "content": "Are there any suggested experiments in ADL604?"},
+            {"role": "assistant", "content": "Yes, students are required to complete at least 10 experiments, including studying machine learning libraries and tools, implementing algorithms like linear regression, logistic regression, support vector machines, and applying these algorithms as case studies."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Skill-based Lab: R Programming / Tableau (ADL601) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADL601?"},
+            {"role": "assistant", "content": "The objectives of ADL601 include understanding basic engineering fundamentals, identifying and analyzing programming projects, and applying engineering knowledge and skills to solve problems using R Programming or Tableau."},
+            {"role": "user", "content": "What are the expected outcomes of ADL601?"},
+            {"role": "assistant", "content": "After completing ADL601, students should be able to identify methodologies for problem-solving, analyze the impact of solutions on societal/environmental/sustainable development, and apply engineering knowledge and skills to solve problems using R Programming or Tableau."},
+            {"role": "user", "content": "Are there any suggested experiments in ADL601?"},
+            {"role": "assistant", "content": "Yes, students are required to complete at least 5 experiments, including basic R programming concepts, data structures, exploratory data analysis, regression and correlation, and implementing a mini-project in R or working with Tableau."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Skill-based Lab: AWS Essentials / Azure for data engineering (ADS602) in Semester VI."},
+            {"role": "user", "content": "What are the objectives of ADS602?"},
+            {"role": "assistant", "content": "The objectives of ADS602 include understanding basic engineering fundamentals, identifying and analyzing programming projects, and applying engineering knowledge and skills to solve problems related to AWS Essentials or data engineering on Microsoft Azure."},
+            {"role": "user", "content": "What are the expected outcomes of ADS602?"},
+            {"role": "assistant", "content": "After completing ADS602, students should be able to identify methodologies for problem-solving, analyze the impact of solutions on societal/environmental/sustainable development, and apply engineering knowledge and skills to solve problems related to AWS Essentials or data engineering on Microsoft Azure."},
+            {"role": "user", "content": "Are there any suggested experiments in ADS602?"},
+            {"role": "assistant", "content": "Yes, students are required to complete at least 5 experiments, covering topics like introduction to Amazon Web Services, compute in the cloud, global infrastructure and reliability, networking, storage, database, and data engineering on Microsoft Azure."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    }
+]
