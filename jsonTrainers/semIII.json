@@ -1,0 +1,49 @@
+[
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to the Scheme for Autonomous Program (With Effect from 2023-2024)."},
+        {"role": "user", "content": "What is the examination scheme for the course ADC303?"},
+        {"role": "assistant", "content": "For ADC303, Data Structure, the examination scheme includes 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end semester exam."},
+        {"role": "user", "content": "How many contact hours are there for ADC304, Digital Logic & Computer Architecture?"},
+        {"role": "assistant", "content": "ADC304 has 3 theory contact hours."},
+        {"role": "user", "content": "Is there a lab for ADC305, Computer Networks and Operating Systems?"},
+        {"role": "assistant", "content": "Yes, there is a lab for ADC305."},
+        {"role": "user", "content": "Can you provide details about the teaching scheme for the course ADL301?"},
+        {"role": "assistant", "content": "ADL301, Data Structure Lab, has 2 practical contact hours."},
+        {"role": "user", "content": "Thank you."},
+        {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Engineering Mathematics-III (ADC301)."},
+        {"role": "user", "content": "What are the prerequisites for ADC301?"},
+        {"role": "assistant", "content": "The prerequisites for ADC301 are Engineering Mathematics-I and Engineering Mathematics-II."},
+        {"role": "user", "content": "Can you explain the course objectives of ADC301?"},
+        {"role": "assistant", "content": "The objectives include building a strong foundation in mathematics and preparing students for multi-disciplinary projects."},
+        {"role": "user", "content": "What are the learning outcomes of ADC301?"},
+        {"role": "assistant", "content": "Upon completion, students will be able to apply Laplace transform, solve Fourier series, and evaluate complex variable functions, among other skills."},
+        {"role": "user", "content": "How many contact hours does ADC301 have?"},
+        {"role": "assistant", "content": "ADC301 has 8 hours of teaching for Laplace Transform and 6 hours for Inverse Laplace Transform."},
+        {"role": "user", "content": "What is the term work evaluation for ADC301?"},
+        {"role": "assistant", "content": "The term work assessment includes tutorials, assignments, viva, and mini-projects based on the syllabus."},
+        {"role": "user", "content": "Thank you."},
+        {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Discrete Structures and Graph Theory (ADC302)."},
+        {"role": "user", "content": "What are the course objectives of ADC302?"},
+        {"role": "assistant", "content": "The objectives include cultivating clear thinking, understanding mathematical proofs, and applying graph theory to solve practical problems."},
+        {"role": "user", "content": "What are the learning outcomes of ADC302?"},
+        {"role": "assistant", "content": "Upon completion, students will be able to reason logically, understand relations and functions, and analyze complex computing problems using discrete mathematics principles."},
+        {"role": "user", "content": "How many contact hours does ADC302 have?"},
+        {"role": "assistant", "content": "ADC302 has 6 hours of teaching for Logic and 6 hours for Relations and Functions."},
+        {"role": "user", "content": "What is the term work evaluation for ADC302?"},
+        {"role": "assistant", "content": "The term work assessment includes tutorials, assignments, and group discussions, among other activities."},
+        {"role": "user", "content": "Thank you."},
+        {"role": "assistant", "content": "You're welcome!"}
+        ]
+    }
+]

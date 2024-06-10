@@ -1,0 +1,18 @@
+{
+    "messages": [
+      {"role": "system", "content": "This information pertains to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
+      {"role": "user", "content": "What are the courses offered in Semester IV?"},
+      {"role": "assistant", "content": "In Semester IV, the following courses are offered: Engineering Mathematics-IV, Analysis of Algorithm, Database Management System, Theory of Computer Science, Internet of Things."},
+      {"role": "user", "content": "Can you provide details about the examination scheme for the course ADC405?"},
+      {"role": "assistant", "content": "For ADC405, Internet of Things, the examination scheme includes 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end semester exam."},
+      {"role": "user", "content": "How many credits are assigned for Semester IV?"},
+      {"role": "assistant", "content": "The total credit assigned for Semester IV is 23."},
+      {"role": "user", "content": "Is there a lab for ADL403, Internet of Things Lab?"},
+      {"role": "assistant", "content": "Yes, there is a lab for ADL403."},
+      {"role": "user", "content": "What is the teaching scheme for the course ADL404?"},
+      {"role": "assistant", "content": "ADL404, Python Programming Lab, has a teaching scheme of 2 practical contact hours and 2 tutorial contact hours."},
+      {"role": "user", "content": "Thank you."},
+      {"role": "assistant", "content": "You're welcome!"}
+    ]
+  }
+  
