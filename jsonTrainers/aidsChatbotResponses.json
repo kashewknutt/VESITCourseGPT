@@ -1,18 +1,54 @@
-{
-    "messages": [
-      {"role": "system", "content": "This information pertains to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
-      {"role": "user", "content": "What are the courses offered in Semester III?"},
-      {"role": "assistant", "content": "In Semester III, the following courses are offered: Engineering Mathematics III, Discrete Structures and Graph Theory, Data Structure, Digital Logic & Computer Architecture, Computer Networks and Operating Systems."},
-      {"role": "user", "content": "Can you provide details about the teaching scheme for the course ADC301?"},
-      {"role": "assistant", "content": "ADC301, Engineering Mathematics III, has a teaching scheme of 4 theory contact hours and 1 tutorial contact hour."},
-      {"role": "user", "content": "How are the courses evaluated in Semester III?"},
-      {"role": "assistant", "content": "The examination scheme includes internal assessment and end semester exams, with specific marks allocated for theory, term work, and practicals for each course."},
-      {"role": "user", "content": "Are there any labs in Semester III?"},
-      {"role": "assistant", "content": "Yes, there are labs for Data Structure, Digital Logic & Computer Architecture, and Computer Networks and Operating Systems."},
-      {"role": "user", "content": "What is the total credit assigned for Semester III?"},
-      {"role": "assistant", "content": "The total credit assigned for Semester III is 23."},
-      {"role": "user", "content": "Thank you."},
-      {"role": "assistant", "content": "You're welcome!"}
-    ]
-  }
+[
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
+        {"role": "user", "content": "What are the courses offered in Semester III?"},
+        {"role": "assistant", "content": "In Semester III, the following courses are offered: Engineering Mathematics III, Discrete Structures and Graph Theory, Data Structure, Digital Logic & Computer Architecture, Computer Networks and Operating Systems."},
+        {"role": "user", "content": "Can you provide details about the teaching scheme for the course ADC301?"},
+        {"role": "assistant", "content": "ADC301, Engineering Mathematics III, has a teaching scheme of 4 theory contact hours and 1 tutorial contact hour."},
+        {"role": "user", "content": "How are the courses evaluated in Semester III?"},
+        {"role": "assistant", "content": "The examination scheme includes internal assessment and end semester exams, with specific marks allocated for theory, term work, and practicals for each course."},
+        {"role": "user", "content": "Are there any labs in Semester III?"},
+        {"role": "assistant", "content": "Yes, there are labs for Data Structure, Digital Logic & Computer Architecture, and Computer Networks and Operating Systems."},
+        {"role": "user", "content": "What is the total credit assigned for Semester III?"},
+        {"role": "assistant", "content": "The total credit assigned for Semester III is 23."},
+        {"role": "user", "content": "Thank you."},
+        {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for Third Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "What are the courses offered in Semester V?"},
+            {"role": "assistant", "content": "In Semester V, the following courses are offered: Cloud Computing, Web Development, Artificial Intelligence, Data Warehousing & Mining, and Department Level Optional Course-1."},
+            {"role": "user", "content": "Can you provide details about the teaching scheme for the course ADC501?"},
+            {"role": "assistant", "content": "ADC501, Cloud Computing, has a teaching scheme of 3 theory contact hours and 3 practical contact hours."},
+            {"role": "user", "content": "How are the courses evaluated in Semester V?"},
+            {"role": "assistant", "content": "The examination scheme includes internal assessment and end semester exams, with specific marks allocated for theory, term work, and practicals for each course."},
+            {"role": "user", "content": "Are there any labs in Semester V?"},
+            {"role": "assistant", "content": "Yes, there are labs for Web Development, Artificial Intelligence, Data Warehousing and Mining, and Professional Communication and Ethics-II."},
+            {"role": "user", "content": "What is the total credit assigned for Semester V?"},
+            {"role": "assistant", "content": "The total credit assigned for Semester V is 22."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for Third Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "What are the courses offered in Semester VI?"},
+            {"role": "assistant", "content": "In Semester VI, the following courses are offered: Data Analytics and Visualization, Cryptography and System Security, Software Engineering and Project Management, Machine Learning, and Department Level Optional Course-2."},
+            {"role": "user", "content": "Can you provide details about the teaching scheme for the course ADC601?"},
+            {"role": "assistant", "content": "ADC601, Data Analytics and Visualization, has a teaching scheme of 3 theory contact hours and 3 practical contact hours."},
+            {"role": "user", "content": "How are the courses evaluated in Semester VI?"},
+            {"role": "assistant", "content": "The examination scheme includes internal assessment and end semester exams, with specific marks allocated for theory, term work, and practicals for each course."},
+            {"role": "user", "content": "Are there any labs in Semester VI?"},
+            {"role": "assistant", "content": "Yes, there are labs for Data Analytics and Visualization, Cryptography & System Security, Software Engineering and Project Management, Machine Learning, and R Programming / Tableau."},
+            {"role": "user", "content": "What is the total credit assigned for Semester VI?"},
+            {"role": "assistant", "content": "The total credit assigned for Semester VI is 23."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    }
+]
   

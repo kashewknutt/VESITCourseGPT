@@ -1,0 +1,199 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Cloud Computing course (ADC501) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADC501?"},
+            {"role": "assistant", "content": "The objectives of ADC501, Cloud Computing, include understanding cloud computing techniques, virtualization levels, cloud service providers, cloud implementation, and security risks."},
+            {"role": "user", "content": "What are the course outcomes of ADC501?"},
+            {"role": "assistant", "content": "After completing ADC501, students will be able to differentiate between different cloud computing techniques, understand virtualization concepts, compare various cloud computing providers, handle open-source cloud implementation, and understand risks involved in cloud computing."},
+            {"role": "user", "content": "Can you provide details about the teaching scheme for ADC501?"},
+            {"role": "assistant", "content": "ADC501, Cloud Computing, has a teaching scheme of 15 theory contact hours and 7 practical contact hours."},
+            {"role": "user", "content": "How is ADC501 evaluated?"},
+            {"role": "assistant", "content": "ADC501 is evaluated through internal assessment and an end-semester exam, with specific marks allocated for theory, term work, and practicals."},
+            {"role": "user", "content": "Are there any labs associated with ADC501?"},
+            {"role": "assistant", "content": "No, there are no labs associated with ADC501."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Web Development course (ADC502) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADC502?"},
+            {"role": "assistant", "content": "The objectives of ADC502, Web Development, are to orient students to web programming fundamentals, expose them to JavaScript and React, and introduce them to node.js applications."},
+            {"role": "user", "content": "What are the course outcomes of ADC502?"},
+            {"role": "assistant", "content": "After completing ADC502, students will be able to select protocols for web applications, apply JavaScript for web page functionality, design front-end and back-end applications using React and Node.js."},
+            {"role": "user", "content": "Can you provide details about the teaching scheme for ADC502?"},
+            {"role": "assistant", "content": "ADC502, Web Development, has a teaching scheme of 15 theory contact hours and 8 practical contact hours."},
+            {"role": "user", "content": "How is ADC502 evaluated?"},
+            {"role": "assistant", "content": "ADC502 is evaluated through internal assessment and an end-semester exam, with specific marks allocated for theory, term work, and practicals."},
+            {"role": "user", "content": "Are there any labs associated with ADC502?"},
+            {"role": "assistant", "content": "No, there are no labs associated with ADC502."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Artificial Intelligence course (ADC503) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADC503?"},
+            {"role": "assistant", "content": "The objectives of ADC503, Artificial Intelligence, include gaining perspective on AI and its foundations, studying different agent architectures, understanding basic principles of AI, investigating probabilistic reasoning, and exploring the scope and limitations of intelligent systems."},
+            {"role": "user", "content": "What are the course outcomes of ADC503?"},
+            {"role": "assistant", "content": "After completing ADC503, students will be able to identify characteristics of the environment, apply search strategies for problem-solving, design knowledge-based agents, reason under uncertainty, comprehend learning techniques, and describe expert system building blocks."},
+            {"role": "user", "content": "Can you provide details about the teaching scheme for ADC503?"},
+            {"role": "assistant", "content": "ADC503, Artificial Intelligence, has a teaching scheme of 39 hours."},
+            {"role": "user", "content": "How is ADC503 evaluated?"},
+            {"role": "assistant", "content": "ADC503 is evaluated through internal assessment and an end-semester exam, with specific marks allocated for theory."},
+            {"role": "user", "content": "Are there any labs associated with ADC503?"},
+            {"role": "assistant", "content": "No, there are no labs associated with ADC503."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Data Warehousing and Mining course (ADC504) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADC504?"},
+            {"role": "assistant", "content": "The objectives of ADC504, Data Warehousing and Mining, are to create awareness of organizing and analyzing data using a Data Warehouse, introduce data mining concepts, and enable effective data preprocessing and mining."},
+            {"role": "user", "content": "What are the course outcomes of ADC504?"},
+            {"role": "assistant", "content": "After completing ADC504, students will be able to organize data in an enterprise, analyze data using OLAP operations, prepare data for mining, implement data mining methods, define metrics for algorithm performance, and understand concepts related to Web mining."},
+            {"role": "user", "content": "Can you provide details about the teaching scheme for ADC504?"},
+            {"role": "assistant", "content": "ADC504, Data Warehousing and Mining, has a teaching scheme of 39 hours."},
+            {"role": "user", "content": "How is ADC504 evaluated?"},
+            {"role": "assistant", "content": "ADC504 is evaluated through internal assessment and an end-semester exam, with specific marks allocated for theory."},
+            {"role": "user", "content": "Are there any labs associated with ADC504?"},
+            {"role": "assistant", "content": "No, there are no labs associated with ADC504."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Artificial Intelligence course (ADC503) in Semester V."},
+            {"role": "user", "content": "What all will we learn in ADC503?"},
+            {"role": "assistant", "content": "ADC503 covers understanding AI foundations, studying different agent architectures, basic AI principles, probabilistic reasoning, and exploring intelligent systems."},
+            {"role": "user", "content": "What will we be able to do after completing ADC503?"},
+            {"role": "assistant", "content": "By the end of ADC503, you'll identify environment characteristics, apply search strategies for problem-solving, design knowledge-based agents, reason under uncertainty, and understand learning techniques."},
+            {"role": "user", "content": "How many hours is ADC503 taught for?"},
+            {"role": "assistant", "content": "ADC503, Artificial Intelligence, has a teaching duration of 39 hours."},
+            {"role": "user", "content": "How is ADC503 assessed?"},
+            {"role": "assistant", "content": "ADC503 is assessed through internal assessment and an end-semester exam, with specific marks for theory."},
+            {"role": "user", "content": "Is there any lab work in ADC503?"},
+            {"role": "assistant", "content": "No, there are no lab sessions for ADC503."},
+            {"role": "user", "content": "Thanks!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Data Warehousing and Mining course (ADC504) in Semester V."},
+            {"role": "user", "content": "What's covered in ADC504?"},
+            {"role": "assistant", "content": "ADC504 introduces data warehouse organization, data mining concepts, effective data preprocessing, and mining methods, including Web mining."},
+            {"role": "user", "content": "What will we gain from ADC504?"},
+            {"role": "assistant", "content": "Upon completion of ADC504, you'll be able to organize enterprise data, analyze using OLAP, prepare data for mining, implement mining methods, define performance metrics, and understand Web mining concepts."},
+            {"role": "user", "content": "How long is ADC504 taught for?"},
+            {"role": "assistant", "content": "ADC504, Data Warehousing and Mining, spans 39 hours."},
+            {"role": "user", "content": "How is ADC504 evaluated?"},
+            {"role": "assistant", "content": "Evaluation for ADC504 includes internal assessment and an end-semester exam, with specific marks for theory."},
+            {"role": "user", "content": "Is there any lab component in ADC504?"},
+            {"role": "assistant", "content": "No, there are no lab components in ADC504."},
+            {"role": "user", "content": "Thanks a lot!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Computer Graphics course (ADLO5013) in Semester V."},
+            {"role": "user", "content": "What's the focus of ADLO5013?"},
+            {"role": "assistant", "content": "ADLO5013 emphasizes providing fundamental knowledge and technical skills in computer graphics, focusing on algorithm implementation and preparing for advanced areas."},
+            {"role": "user", "content": "What are the expected outcomes of ADLO5013?"},
+            {"role": "assistant", "content": "By the end of ADLO5013, students should grasp basic graphics concepts, demonstrate algorithms for primitives, apply 2-D transformations, perform clipping, explore 3-D transformations, curves, projections, and understand visible surface detection and animation."},
+            {"role": "user", "content": "How long does ADLO5013 last?"},
+            {"role": "assistant", "content": "ADLO5013, Computer Graphics, spans a total of 39 hours."},
+            {"role": "user", "content": "How is ADLO5013 assessed?"},
+            {"role": "assistant", "content": "Assessment for ADLO5013 includes both internal assessment and an end-semester exam."},
+            {"role": "user", "content": "Are there any lab sessions for ADLO5013?"},
+            {"role": "assistant", "content": "No, ADLO5013 does not have any lab components."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Web Development Lab (ADL501) in Semester V."},
+            {"role": "user", "content": "What's covered in ADL501?"},
+            {"role": "assistant", "content": "ADL501 covers various aspects of web development, including HTML, CSS, JavaScript, React, and Node.js."},
+            {"role": "user", "content": "What are the lab outcomes for ADL501?"},
+            {"role": "assistant", "content": "Students completing ADL501 should be able to develop webpages using HTML and CSS, create responsive layouts using Bootstrap, develop interactive pages with JavaScript, and build front-end and back-end applications using React and Node.js."},
+            {"role": "user", "content": "How many credits is ADL501 worth?"},
+            {"role": "assistant", "content": "ADL501, the Web Development Lab, carries 1 credit."},
+            {"role": "user", "content": "How is ADL501 evaluated?"},
+            {"role": "assistant", "content": "Evaluation for ADL501 includes term work, which consists of completing experiments, and a practical exam based on the lab syllabus."},
+            {"role": "user", "content": "Are there any suggested experiments for ADL501?"},
+            {"role": "assistant", "content": "Yes, students are advised to complete at least 10 experiments covering HTML, CSS, Bootstrap, JavaScript, React, and advanced React concepts."},
+            {"role": "user", "content": "Great, thanks!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Artificial Intelligence Lab (ADL502) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADL502?"},
+            {"role": "assistant", "content": "The objectives of ADL502 include designing suitable agent architectures, implementing knowledge representation and reasoning, designing problem-solving agents, and incorporating reasoning under uncertainty."},
+            {"role": "user", "content": "What are the expected outcomes of ADL502?"},
+            {"role": "assistant", "content": "By the end of ADL502, students should be able to identify suitable agent architectures, implement programs using Prolog, apply various search techniques, represent natural language descriptions in logic, and construct Bayesian Belief Networks."},
+            {"role": "user", "content": "How is ADL502 evaluated?"},
+            {"role": "assistant", "content": "Evaluation for ADL502 includes term work, which consists of completing experiments, and a practical exam based on the lab syllabus."},
+            {"role": "user", "content": "Are there any suggested experiments for ADL502?"},
+            {"role": "assistant", "content": "Yes, students are advised to complete at least 10 experiments covering topics such as Prolog programming, search techniques, ontology definition, Bayesian Networks, planning agents, and AI-based game prototypes."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Data Warehousing and Mining Lab (ADL503) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADL503?"},
+            {"role": "assistant", "content": "The objectives of ADL503 include creating awareness of data organization and analysis, introducing data mining concepts, enabling effective data processing, and familiarizing students with data mining algorithms and tools."},
+            {"role": "user", "content": "What are the expected outcomes of ADL503?"},
+            {"role": "assistant", "content": "By the end of ADL503, students should be able to build a data warehouse, analyze data using OLAP operations, demonstrate an understanding of data mining importance, organize and prepare data for mining, and implement data mining methods."},
+            {"role": "user", "content": "How is ADL503 evaluated?"},
+            {"role": "assistant", "content": "Evaluation for ADL503 includes term work, which consists of completing experiments, and a practical exam based on the lab syllabus."},
+            {"role": "user", "content": "Are there any suggested experiments for ADL503?"},
+            {"role": "assistant", "content": "Yes, students are required to complete all experiments covering data warehouse construction, OLAP operations, data preprocessing, classifier implementation, association mining, clustering algorithms, and implementation using Java or Python."},
+            {"role": "user", "content": "Thanks for the information!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Professional Communication and Ethics-II course (ADL504) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADL504?"},
+            {"role": "assistant", "content": "The objectives of ADL504 include developing effective writing skills for technical/business documents, planning successful job campaigns, understanding professional communication dynamics, developing presentation skills, analyzing personal traits, and understanding the importance of ethics."},
+            {"role": "user", "content": "What are the expected outcomes of ADL504?"},
+            {"role": "assistant", "content": "By the end of ADL504, students should be able to plan and prepare effective business/technical documents, strategize personal and professional skills, excel in group discussions and meetings, deliver persuasive presentations, develop creative thinking and interpersonal skills, and apply codes of ethical conduct."},
+            {"role": "user", "content": "How is ADL504 evaluated?"},
+            {"role": "assistant", "content": "Evaluation for ADL504 includes internal assessment components such as assignments, continuous assessment, report on presentation, and group discussion."},
+            {"role": "user", "content": "Are there any module topics covered in ADL504?"},
+            {"role": "assistant", "content": "Yes, ADL504 covers advanced technical writing, employment skills (cover letters, resumes, interviews), business meetings, technical/business presentations, interpersonal skills, and corporate ethics."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information is about the Skill Based Lab course: Cloud Computing (ADS501) in Semester V."},
+            {"role": "user", "content": "What are the objectives of ADS501?"},
+            {"role": "assistant", "content": "The objectives of ADS501 include familiarizing students with virtualization concepts, various cloud deployment models, service models, security issues in cloud computing, and containerization."},
+            {"role": "user", "content": "What are the expected outcomes of ADS501?"},
+            {"role": "assistant", "content": "By the end of ADS501, students should be able to implement different virtualization techniques, analyze and implement cloud computing service models, design and deploy web applications on commercial clouds, address major security issues, explore commercially available cloud services, and implement containerization."},
+            {"role": "user", "content": "How is ADS501 evaluated?"},
+            {"role": "assistant", "content": "Evaluation for ADS501 includes completing experiments, a mini-project, and assignments."},
+            {"role": "user", "content": "Are there any lab experiments included in ADS501?"},
+            {"role": "assistant", "content": "Yes, ADS501 includes lab experiments such as implementing Infrastructure as a Service, Platform as a Service, Storage as a Service, Database as a Service, Security as a Service, containerization, container orchestration using Kubernetes, and designing a web application hosted on a public cloud platform."},
+            {"role": "user", "content": "Thanks for the details!"},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    }
+    
+]
