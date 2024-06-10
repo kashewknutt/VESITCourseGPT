@@ -1,0 +1,291 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADC701: Deep Learning."},
+            {"role": "user", "content": "What are the prerequisites for ADC701?"},
+            {"role": "assistant", "content": "The prerequisites for ADC701 include basic mathematics and statistical concepts, linear algebra, and machine learning."},
+            {"role": "user", "content": "What are the course objectives of ADC701?"},
+            {"role": "assistant", "content": "The course objectives of ADC701 are: 1. To learn the fundamentals of Neural Network. 2. To gain an in-depth understanding of training Deep Neural Networks. 3. To acquire knowledge of advanced concepts of Convolution Neural Networks, Autoencoders and Recurrent Neural Networks. 4. Students should be familiar with the recent trends in Deep Learning."},
+            {"role": "user", "content": "Can you list the course outcomes of ADC701?"},
+            {"role": "assistant", "content": "The course outcomes of ADC701 are: 1. Gain basic knowledge of Neural Networks. 2. Acquire in-depth understanding of training Deep Neural Networks. 3. Design appropriate DNN model for supervised, unsupervised and sequence learning applications. 4. Gain familiarity with recent trends and applications of Deep Learning."},
+            {"role": "user", "content": "What is covered in the 'Fundamentals of Neural Network' module?"},
+            {"role": "assistant", "content": "The 'Fundamentals of Neural Network' module covers topics such as history of Deep Learning, Multilayer Perceptrons (MLPs), Sigmoid Neurons, Gradient Descent, and more."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADC701?"},
+            {"role": "assistant", "content": "The internal assessment for ADC701 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADC702: Big Data Analytics."},
+            {"role": "user", "content": "What are the prerequisites for ADC702?"},
+            {"role": "assistant", "content": "The prerequisites for ADC702 include some prior knowledge about Java programming, basics of SQL, and data mining and machine learning methods."},
+            {"role": "user", "content": "What are the course objectives of ADC702?"},
+            {"role": "assistant", "content": "The course objectives of ADC702 are: 1. To provide an overview of the exciting growing field of big data analytics. 2. To introduce programming skills to build simple solutions using big data technologies. 3. To teach fundamental techniques and principles in achieving big data analytics with scalability and streaming capability. 4. To enable students to have skills to solve complex real-world problems in decision support. 5. To provide an indication of the current research approaches likely to provide a basis for tomorrow's solutions."},
+            {"role": "user", "content": "Can you list the course outcomes of ADC702?"},
+            {"role": "assistant", "content": "The course outcomes of ADC702 are: 1. Understand the key issues in big data management and its associated applications. 2. Develop problem solving and critical thinking skills in fundamental enabling techniques like Hadoop, MapReduce and NoSQL. 3. Collect, manage, store, query and analyze various forms of Big Data. 4. Interpret business models and scientific computing paradigms, and apply software tools for big data analytics. 5. Adapt adequate perspectives of big data analytics in various applications."},
+            {"role": "user", "content": "What is covered in the 'Introduction to Big Data' module?"},
+            {"role": "assistant", "content": "The 'Introduction to Big Data' module covers topics such as Big Data characteristics, types of Big Data, challenges, applications, and more."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADC702?"},
+            {"role": "assistant", "content": "The internal assessment for ADC702 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO7011: Natural Language Processing."},
+            {"role": "user", "content": "What are the prerequisites for ADDO7011?"},
+            {"role": "assistant", "content": "The prerequisites for ADDO7011 include Artificial Intelligence and Machine Learning, and Basic knowledge of Python."},
+            {"role": "user", "content": "What are the course objectives of ADDO7011?"},
+            {"role": "assistant", "content": "The course objectives of ADDO7011 are: 1. To understand natural language processing and to learn how to apply basic algorithms in this field. 2. To get acquainted with the basic concepts and algorithmic description of the main language levels: morphology, syntax, semantics, and pragmatics. 3. To design and implement various language models and POS tagging techniques. 4. To design and learn NLP applications such as Information Extraction, Question answering. 5. To design and implement applications based on natural language processing."},
+            {"role": "user", "content": "Can you list the course outcomes of ADDO7011?"},
+            {"role": "assistant", "content": "The course outcomes of ADDO7011 are: 1. To have a broad understanding of the field of natural language processing. 2. To design language model for word level analysis for text processing. 3. To design various POS tagging techniques. 4. To design, implement and test algorithms for semantic analysis. 5. To develop basic understanding of Pragmatics and to formulate the discourse segmentation and anaphora resolution. 6. To apply NLP techniques to design real world NLP applications."},
+            {"role": "user", "content": "What is covered in the 'Introduction' module?"},
+            {"role": "assistant", "content": "The 'Introduction' module covers topics such as Origin & History of NLP, The need of NLP, Generic NLP System, Levels of NLP, Knowledge in Language Processing, Ambiguity in Natural Language, Challenges of NLP, and Applications of NLP."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADDO7011?"},
+            {"role": "assistant", "content": "The internal assessment for ADDO7011 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO7012: AI for Healthcare."},
+            {"role": "user", "content": "What are the prerequisites for ADDO7012?"},
+            {"role": "assistant", "content": "The prerequisites for ADDO7012 include Artificial Intelligence, and Machine Learning."},
+            {"role": "user", "content": "What are the course objectives of ADDO7012?"},
+            {"role": "assistant", "content": "The course objectives of ADDO7012 are: 1. To understand the need and significance of AI and ML for Healthcare. 2. To study advanced AI algorithms for Healthcare. 3. To learn Computational Intelligence techniques. 4. To understand evaluation metrics and ethics in intelligence for Healthcare systems. 5. To learn various NLP algorithms and their application in Healthcare. 6. To investigate the current scope, implications of AI and ML for developing futuristic Healthcare Applications."},
+            {"role": "user", "content": "Can you list the course outcomes of ADDO7012?"},
+            {"role": "assistant", "content": "The course outcomes of ADDO7012 are: 1. Understand the role of AI and ML for handling Healthcare data. 2. Apply Advanced AI algorithms for Healthcare Problems. 3. Learn and Apply various Computational Intelligence techniques for Healthcare Application. 4. Use evaluation metrics for evaluating healthcare systems. 5. Develop NLP applications for healthcare using various NLP Techniques. 6. Apply AI and ML algorithms for building Healthcare Applications."},
+            {"role": "user", "content": "What is covered in the 'Introduction' module?"},
+            {"role": "assistant", "content": "The 'Introduction' module covers topics such as Overview of AI, ML and DL, Applications of AI in Healthcare, Healthcare Data - Use Cases."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADDO7012?"},
+            {"role": "assistant", "content": "The internal assessment for ADDO7012 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO7013: Neural Networks and Fuzzy Systems."},
+            {"role": "user", "content": "What are the prerequisites for ADDO7013?"},
+            {"role": "assistant", "content": "The prerequisites for ADDO7013 include Engineering Mathematics, Data Structures and Algorithm, Python Programming."},
+            {"role": "user", "content": "What are the course objectives of ADDO7013?"},
+            {"role": "assistant", "content": "The course objectives of ADDO7013 are: 1. To relate to the basic terminologies with respect to Fuzzy set theory. 2. To analyze and interpret fuzzy logic principles, relations and operations. 3. To recognize various components of Associative Memory Networks. 4. To have basic understanding of Unsupervised learning through Networks. 5. To understand Special networks and its applications in soft computing. 6. To infer the significance of Hybrid computing."},
+            {"role": "user", "content": "Can you list the course outcomes of ADDO7013?"},
+            {"role": "assistant", "content": "The course outcomes of ADDO7013 are: 1. Acquire basic knowledge of fuzzy set theory properties and relations. 2. Implement Fuzzy operations towards Fuzzy-rule creations. 3. Gain familiarity with the training and implementation of Associative Memory Network. 4. Understand the architecture and basics components of Unsupervised learning networks. 5. Analyze the significance and working of the Special Networks. 6. Interpret Hybrid System to analyze the Principles of Soft computing in Neuro-Fuzzy applications."},
+            {"role": "user", "content": "What is covered in the 'Fuzzy Set Theory' module?"},
+            {"role": "assistant", "content": "The 'Fuzzy Set Theory' module covers topics such as Introduction to soft and hard computing Fuzzy Sets: Basic definition and terminology of fuzzy sets, Classic set operations; Fuzzy set operations- Union, Intersection, complement Difference; Properties of fuzzy sets."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADDO7013?"},
+            {"role": "assistant", "content": "The internal assessment for ADDO7013 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO7021: User Experience Design with VR."},
+            {"role": "user", "content": "What are the prerequisites for ADDO7021?"},
+            {"role": "assistant", "content": "The prerequisites for ADDO7021 include Web Technologies and Software Engineering."},
+            {"role": "user", "content": "What are the course objectives of ADDO7021?"},
+            {"role": "assistant", "content": "The course objectives of ADDO7021 are: 1. To study and understand the importance of user experience design principles. 2. To understand elements of user experience design. 3. To encourage students to participate in designing futuristic applications. 4. To understand the need and significance of Virtual Reality. 5. To understand the technical and engineering aspects of virtual reality systems."},
+            {"role": "user", "content": "Can you list the course outcomes of ADDO7021?"},
+            {"role": "assistant", "content": "The course outcomes of ADDO7021 are: 1. To apply principles of user experience. 2. To apply emerging and established technologies to enhance User Experience design. 3. To create interfaces for international standards with ethics. 4. To evaluate user experience. 5. To describe how VR systems work and list the applications of VR. 6. To design and implement the hardware that enables VR systems to be built."},
+            {"role": "user", "content": "What is covered in the 'Introduction' module of ADDO7021?"},
+            {"role": "assistant", "content": "The 'Introduction' module covers topics such as interface design, understanding and conceptualizing interface, core elements of user experience, and the working of UX elements."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADDO7021?"},
+            {"role": "assistant", "content": "The internal assessment for ADDO7021 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO7022: Blockchain Technologies."},
+            {"role": "user", "content": "What are the prerequisites for ADDO7022?"},
+            {"role": "assistant", "content": "The prerequisites for ADDO7022 include Cryptography and Distributed Systems."},
+            {"role": "user", "content": "What are the course objectives of ADDO7022?"},
+            {"role": "assistant", "content": "The course objectives of ADDO7022 are: 1. To get acquainted with the concept of Distributed ledger system and Blockchain. 2. To learn the concepts of consensus and mining in Blockchain through the Bitcoin network. 3. To understand Ethereum and develop-deploy smart contracts using different tools and frameworks. 4. To understand permissioned Blockchain and explore Hyperledger Fabric. 5. To understand different types of crypto assets."},
+            {"role": "user", "content": "Can you list the course outcomes of ADDO7022?"},
+            {"role": "assistant", "content": "The course outcomes of ADDO7022 are: 1. To describe the basic concept of Blockchain and Distributed Ledger Technology. 2. To interpret the knowledge of the Bitcoin network, nodes, keys, wallets, and transactions. 3. To implement smart contracts in Ethereum using different development frameworks. 4. To develop applications in permissioned Hyperledger Fabric network. 5. To interpret different Crypto assets and Crypto currencies. 6. To analyze the use of Blockchain with AI, IoT, and Cyber Security using case studies."},
+            {"role": "user", "content": "What is covered in the 'Introduction to Blockchain' module of ADDO7022?"},
+            {"role": "assistant", "content": "The 'Introduction to Blockchain' module covers topics such as Distributed Ledger Technologies, introduction to blockchain, block in a Blockchain, consensus protocol, and Bitcoin blockchain."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADDO7022?"},
+            {"role": "assistant", "content": "The internal assessment for ADDO7022 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO7023: Game Theory for Data Science."},
+            {"role": "user", "content": "What are the prerequisites for ADDO7023?"},
+            {"role": "assistant", "content": "The prerequisites for ADDO7023 include Probability and Algebra."},
+            {"role": "user", "content": "What are the course objectives of ADDO7023?"},
+            {"role": "assistant", "content": "The course objectives of ADDO7023 are: 1. To introduce the student to the notion of a game, its solutions concepts, and other basic notions and tools of game theory, and the main applications for which they are appropriate, including electronic trading markets. 2. To formalize the notion of strategic thinking and rational choice by using the tools of game theory, and to provide insights into using game theory in modeling applications. 3. To draw the connections between game theory, computer science, and economics, especially emphasizing the computational issues. 4. To introduce contemporary topics in the intersection of game theory, computer science, and economics. 5. To apply game theory in searching, auctioning, and trading."},
+            {"role": "user", "content": "Can you list the course outcomes of ADDO7023?"},
+            {"role": "assistant", "content": "The course outcomes of ADDO7023 are: 1. Analyze and Discuss the notion of a strategic game and equilibria and identify the characteristics of the main applications of these concepts. 2. Discuss the use of Nash Equilibrium for other problems. Identify key strategic aspects and based on these be able to connect them to appropriate game theoretic concepts given a real-world situation. 3. Identify some applications that need aspects of Bayesian Games. Implement a typical Virtual Business scenario using Game theory. 4. Identify and discuss the working principle of Non-Cooperative Games. 5. Discuss the Mechanism for Design Aggregating Preferences. 6. Identify and discuss the working principle: Repeated Games."},
+            {"role": "user", "content": "What is covered in the 'Introduction' module of ADDO7023?"},
+            {"role": "assistant", "content": "The 'Introduction' module covers topics such as making rational choices, basics of Games, strategy, preferences, payoffs, mathematical basics, game theory, rational choice, basic solution concepts, non-cooperative versus cooperative games, basic computational issues, finding equilibria, and learning in games. It also covers typical application areas for game theory like Google’s sponsored search, eBay auctions, and electricity trading markets."},
+            {"role": "user", "content": "How is the internal assessment conducted for ADDO7023?"},
+            {"role": "assistant", "content": "The internal assessment for ADDO7023 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. The rubrics for continuous assessment include various activities like certificate courses, content beyond syllabus presentation, creating proof of concept, mini projects, quizzes, and GATE based assignments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADL701: Deep Learning Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADL701?"},
+            {"role": "assistant", "content": "The prerequisites for ADL701 include Python Programming and Engineering Mathematics."},
+            {"role": "user", "content": "What are the lab objectives of ADL701?"},
+            {"role": "assistant", "content": "The lab objectives of ADL701 are: 1. To implement basic neural network models. 2. To implement various training algorithms for feedforward neural networks. 3. To design deep learning models for supervised, unsupervised, and sequence learning."},
+            {"role": "user", "content": "Can you list the lab outcomes of ADL701?"},
+            {"role": "assistant", "content": "The lab outcomes of ADL701 are: 1. Implement basic neural network models. 2. Design and train feedforward neural networks using various learning algorithms and optimize model performance. 3. Build and train deep learning models such as Autoencoders, CNNs, RNN, LSTM, GRU etc."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADL701?"},
+            {"role": "assistant", "content": "The suggested list of experiments for ADL701 includes experiments based on different modules covering topics like Multilayer Perceptron algorithm, exploring python libraries for deep learning, applying various learning algorithms to supervised single layer feedforward neural network, implementing backpropagation algorithm, designing and implementing fully connected deep neural network, designing architectures and implementing autoencoder models for Image Compression and Image denoising, designing and implementing CNN models for digit recognition and image classification, and designing and implementing LSTM and GRU models for various applications."},
+            {"role": "user", "content": "How is the term work evaluated for ADL701?"},
+            {"role": "assistant", "content": "The term work for ADL701 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. Total 25 Marks are allocated for Experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADL702: Big Data Analytics Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADL702?"},
+            {"role": "assistant", "content": "The prerequisites for ADL702 include Java or Python programming."},
+            {"role": "user", "content": "What are the lab objectives of ADL702?"},
+            {"role": "assistant", "content": "The lab objectives of ADL702 are: 1. To provide an overview of an exciting growing field of big data analytics. 2. To introduce programming skills to build simple solutions using big data technologies such as MapReduce and scripting for NoSQL, and the ability to write parallel algorithms for multiprocessor execution. 3. To teach the fundamental techniques and principles in achieving big data analytics with scalability and streaming capability. 4. To enable students to have skills that will help them to solve complex real-world problems in decision support."},
+            {"role": "user", "content": "Can you list the lab outcomes of ADL702?"},
+            {"role": "assistant", "content": "The lab outcomes of ADL702 are: 1. Understand the key issues in big data management and its associated applications for business decisions and strategy. 2. Develop problem-solving and critical thinking skills in fundamental enabling techniques like Hadoop, MapReduce, and NoSQL in big data analytics. 3. Collect, manage, store, query, and analyze various forms of Big Data. 4. Interpret business models and scientific computing paradigms, and apply software tools for big data analytics. 5. Adapt adequate perspectives of big data analytics in various applications like recommender systems, social media applications etc. 6. Solve Complex real-world problems in various applications like recommender systems, social media applications, health and medical systems, etc."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADL702?"},
+            {"role": "assistant", "content": "The suggested list of experiments for ADL702 includes experiments such as studying the Hadoop ecosystem, programming exercises on Hadoop using Hive, Pig, Hbase, Sqoop, NOSQL, implementing simple algorithms in Map-Reduce like matrix multiplication, aggregates, joins, sorting, searching, implementing Frequent Item set Mining, Clustering algorithms, Classification Algorithms, and various big data applications like Analytics on data streams, Social Network Analysis Algorithms, Web Graph Algorithms, recommendation Engines, and a mini project on real-life large data application implementation."},
+            {"role": "user", "content": "How is the term work evaluated for ADL702?"},
+            {"role": "assistant", "content": "The term work for ADL702 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. Total 25 Marks are allocated for Experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDOL7011: Natural Language Processing Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADDOL7011?"},
+            {"role": "assistant", "content": "The prerequisites for ADDOL7011 include Java or Python programming."},
+            {"role": "user", "content": "What are the lab objectives of ADDOL7011?"},
+            {"role": "assistant", "content": "The lab objectives of ADDOL7011 are: 1. To understand the key concepts of NLP. 2. To learn various phases of NLP. 3. To design and implement various language models and POS tagging techniques. 4. To understand various NLP Algorithms. 5. To learn NLP applications such as Information Extraction, Sentiment Analysis, Question answering, Machine translation etc. 6. To design and implement applications based on natural language processing."},
+            {"role": "user", "content": "Can you list the lab outcomes of ADDOL7011?"},
+            {"role": "assistant", "content": "The lab outcomes of ADDOL7011 are: 1. Apply various text processing techniques. 2. Design language model for word-level analysis. 3. Design, implement and analyze NLP algorithms. 4. Realize semantics of English language for text processing. 5. To apply NLP techniques to design real-world NLP applications such as machine translation, sentiment analysis, text summarization, information extraction, Question Answering system etc. 6. Implement proper experimental methodology for training and evaluating empirical NLP systems."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADDOL7011?"},
+            {"role": "assistant", "content": "The suggested list of experiments for ADDOL7011 includes experiments such as studying various applications of NLP, applying various text preprocessing techniques, performing morphological analysis and word generation, implementing N-Gram model, studying different POS taggers, performing chunking, implementing Named Entity Recognizer, Text Similarity Recognizer, word sense disambiguation using LSTM/GRU, exploratory data analysis of a given text, and a mini project report on one chosen real-world NLP application."},
+            {"role": "user", "content": "How is the term work evaluated for ADDOL7011?"},
+            {"role": "assistant", "content": "The term work for ADDOL7011 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. Total 25 Marks are allocated for Experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDOL7012: AI for Healthcare Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADDOL7012?"},
+            {"role": "assistant", "content": "The prerequisites for ADDOL7012 include Python programming."},
+            {"role": "user", "content": "What are the prerequisites for ADDOL7012?"},
+            {"role": "assistant", "content": "The prerequisites for ADDOL7012 include Python programming."},
+            {"role": "user", "content": "What are the lab objectives of ADDOL7012?"},
+            {"role": "assistant", "content": "The lab objectives of ADDOL7012 are: 1. To Collect, clean, integrate, and transform healthcare data for a specific disease. 2. To Perform exploratory data analysis on healthcare data. 3. To Develop AI models for medical diagnosis using MRI/X-ray data. 4. To Build AI models for medical prognosis. 5. Extract entities from medical reports using natural language processing. 6. To Predict disease risk using patient data."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADDOL7012?"},
+            {"role": "assistant", "content": "The suggested list of experiments for ADDOL7012 includes experiments such as collecting, cleaning, integrating, and transforming healthcare data based on a specific disease, performing exploratory data analysis of healthcare data, AI for medical diagnosis based on MRI/X-ray data, AI for medical prognosis, natural language entity extraction from medical reports, predicting disease risk from patient data, medical reviews analysis from social media data, explainable AI in healthcare for model interpretation, and a mini project to design and implement an innovative web/mobile based AI application using healthcare data."},
+            {"role": "user", "content": "How is the term work evaluated for ADDOL7012?"},
+            {"role": "assistant", "content": "The term work for ADDOL7012 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. Total 25 Marks are allocated for experiments."},
+            {"role": "user", "content": "What are the lab objectives of ADDOL7012?"},
+            {"role": "assistant", "content": "The lab objectives of ADDOL7012 are: 1. To Collect, clean, integrate, and transform healthcare data for a specific disease. 2. To Perform exploratory data analysis on healthcare data. 3. To Develop AI models for medical diagnosis using MRI/X-ray data. 4. To Build AI models for medical prognosis. 5. Extract entities from medical reports using natural language processing. 6. To Predict disease risk using patient data."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADDOL7012?"},
+            {"role": "assistant", "content": "The suggested list of experiments for ADDOL7012 includes experiments such as collecting, cleaning, integrating, and transforming healthcare data based on a specific disease, performing exploratory data analysis of healthcare data, AI for medical diagnosis based on MRI/X-ray data, AI for medical prognosis, natural language entity extraction from medical reports, predicting disease risk from patient data, medical reviews analysis from social media data, explainable AI in healthcare for model interpretation, and a mini project to design and implement an innovative web/mobile based AI application using healthcare data."},
+            {"role": "user", "content": "How is the term work evaluated for ADDOL7012?"},
+            {"role": "assistant", "content": "The term work for ADDOL7012 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. Total 25 Marks are allocated for experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDOL7013: Neural Networks and Fuzzy Systems Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADDOL7013?"},
+            {"role": "assistant", "content": "The prerequisites for ADDOL7013 include knowledge of C/C++/Java/MATLAB programming."},
+            {"role": "user", "content": "What are the lab objectives of ADDOL7013?"},
+            {"role": "assistant", "content": "The lab objectives of ADDOL7013 are: 1. Articulate basic knowledge of fuzzy set theory through programming. 2. Design Associative Memory Networks. 3. Apply Unsupervised learning towards Networks design. 4. Demonstrate Special networks and their applications in soft computing. 5. Implement Hybrid computing systems."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADDOL7013?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL7013 include: 1. Demonstrate Union and intersection of two Fuzzy Sets. 2. Demonstrate difference between two Fuzzy Sets. 3. Implement Fuzzy membership functions. 4. Implement Fuzzy Inference system (FIS). 5. Implement any De-fuzzification of membership method. 6. Implement Bidirectional Associative Memory(BAM) Network. 7. Implement Radial basis function network. 8. Implement Basic Neural Network learning rules. 9. Implement any Unsupervised Learning algorithm. 10. Implement Kohonen Self-Organizing Feature Maps. 11. Implement a Probabilistic Neural Network. 12. Implement any Ensemble neural model. 13. Design any one Neuro-Fuzzy system."},
+            {"role": "user", "content": "How is the term work evaluated for ADDOL7013?"},
+            {"role": "assistant", "content": "The term work for ADDOL7013 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. A total of 25 Marks are allocated for experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDOL7021: User Experience Design with VR Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADDOL7021?"},
+            {"role": "assistant", "content": "The prerequisites for ADDOL7021 include knowledge of Computer Graphics and Python programming."},
+            {"role": "user", "content": "What are the lab objectives of ADDOL7021?"},
+            {"role": "assistant", "content": "The lab objectives of ADDOL7021 are: 1. Analyze how to design Effective and Efficient User Interfaces for intended users. 2. Learn techniques for Prototyping and Evaluating User Experience. 3. Apply the concept of Good UI and User Experience (UX). 4. Perform installation of Unity and explore working of VR Gadget. 5. Develop scene VR application."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADDOL7021?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL7021 include: 1. Project Proposal and Requirement Gathering (Choose the project). Briefly state the problem(s) that the project will seek to solve. Take the user's point of view. Consider what the user's goals are, and what obstacles lie in the way. 2. Creation of Scenario: Write a scenario that involves all three of the tasks identified for the chosen project. 3. Creating a Paper Prototype on selected problem statement. 4. High Fidelity prototype (Wire Frame) using Figma tool. 5. Usability Evaluation of the Design Testing of User Interface from Third Party(Test scripts). 6. Design an interactive design for the selected problem. 7. Installation of Unity and Visual Studio, setting up Unity for VR development, understanding documentation of the same. 8. Demonstration of the working of HTC Vive, Google Cardboard, Google Daydream, and Samsung gear VR. 9. Develop a scene in Unity that includes: i. a cube, plane and sphere, apply transformations on the 3 game objects. ii. add a video and audio source. 10. Develop a simple UI(User interface ) menu with images, canvas, sprites and button. Write a C# program to interact with UI menu through VR trigger button such that on each successful trigger interaction display a score on scene."},
+            {"role": "user", "content": "How is the term work evaluated for ADDOL7021?"},
+            {"role": "assistant", "content": "The term work for ADDOL7021 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. A total of 25 Marks are allocated for experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDOL7022: Blockchain Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADDOL7022?"},
+            {"role": "assistant", "content": "The prerequisites for ADDOL7022 include knowledge of Java, Python, and JavaScript programming languages."},
+            {"role": "user", "content": "What are the lab objectives of ADDOL7022?"},
+            {"role": "assistant", "content": "The lab objectives of ADDOL7022 are: 1. To develop and deploy smart contracts on local Blockchain. 2. To deploy the smart contract on test networks. 3. To deploy and publish smart contracts on Ethereum test network. 4. To design and develop cryptocurrency. 5. To deploy chain code on permissioned Blockchain. 6. To design and develop a Full-fledged DApp using Ethereum/Hyperledger."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADDOL7022?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL7022 include: 1. Introduction to Truffle and establishing local Blockchain using Truffle. 2. Solidity programming language and chain code deployment on Truffle local. 3. Deployment and publishing smart contracts on Ethereum test network using Remix IDE and Metamask. 4. Development of cryptocurrency. 5. Chain code deployment in Hyperledger Fabric. 6. Full-fledged DApp development using Ethereum/Hyperledger. 7. Case studies on Hyperledger and other Blockchain platforms. 8. Creating a blockchain application. 9. Mini-project on Design and Development of DApps using Ethereum/Hyperledger Fabric."},
+            {"role": "user", "content": "How is the term work evaluated for ADDOL7022?"},
+            {"role": "assistant", "content": "The term work for ADDOL7022 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. A total of 25 Marks are allocated for experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDOL7023: Game Theory for Data Science Lab."},
+            {"role": "user", "content": "What are the prerequisites for ADDOL7023?"},
+            {"role": "assistant", "content": "The prerequisites for ADDOL7023 include knowledge of Probability and Algebra."},
+            {"role": "user", "content": "What are the lab objectives of ADDOL7023?"},
+            {"role": "assistant", "content": "The lab objectives of ADDOL7023 are: 1. To understand fundamental game theory concepts. 2. To apply game theory to real-world data science scenarios. 3. To analyze Nash equilibria in different types of games. 4. To investigate mixed strategies and their implications. 5. To learn game theory algorithms and computational tools. 6. To explore applications of game theory in data science."},
+            {"role": "user", "content": "What experiments are included in the suggested list for ADDOL7023?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL7023 include: 1. Prisoner's dilemma. 2. Pure Strategy Nash Equilibrium. 3. Extensive Form – Graphs and Trees, Game Trees. 4. Strategic Form – Elimination of dominant strategy. 5. Minimax theorem, minimax strategies. 6. Perfect information games: trees, players assigned to nodes, payoffs, backward Induction, subgame perfect equilibrium. 7. Imperfect-information games – Mixed Strategy Nash Equilibrium. 8. Repeated Games. 9. Bayesian Nash equilibrium. 10. Implementation of any game (e.g., Tic Tac To, coloring triangle, water jug, 8 queen, 8 puzzle) in groups."},
+            {"role": "user", "content": "How is the term work evaluated for ADDOL7023?"},
+            {"role": "assistant", "content": "The term work for ADDOL7023 should consist of 8(min) to 12(max) experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. A total of 25 Marks are allocated for experiments."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADP701: Major Project 1."},
+            {"role": "user", "content": "What are the objectives of ADP701?"},
+            {"role": "assistant", "content": "The objectives of ADP701 are: 1. To acquaint students with the process of identifying needs and converting them into problems. 2. To familiarize students with the process of solving problems in a group setting. 3. To apply basic engineering fundamentals to attempt solutions to the identified problems. 4. To inculcate self-learning and research skills."},
+            {"role": "user", "content": "What are the outcomes of ADP701?"},
+            {"role": "assistant", "content": "The outcomes of ADP701 are: 1. Identifying problems based on societal/research needs. 2. Applying knowledge and skills to solve societal problems in a group. 3. Drawing proper inferences from available results through theoretical/experimental/simulations. 4. Analyzing the impact of solutions in societal and environmental contexts for sustainable development. 5. Demonstrating capabilities of self-learning in a group, leading to lifelong learning. 6. Demonstrating project management principles during project work."},
+            {"role": "user", "content": "How are project topics selected and allocated in ADP701?"},
+            {"role": "assistant", "content": "Project topics in ADP701 are selected and allocated based on defined processes. These processes include project orientation at the end of the sixth semester, informing students about relevant domains and domain experts, recommending literature from reputed conferences/journals, selecting large and real-time datasets, encouraging unique project ideas, and finalizing topics based on novelty, technology used, and relevance."},
+            {"role": "user", "content": "What is the format of the project report in ADP701?"},
+            {"role": "assistant", "content": "The project report in ADP701 should contain various sections such as abstract, introduction, literature survey, problem statement and objectives, proposed system, analysis/framework/algorithm, design details, methodology, experimental setup, database details, performance evaluation parameters, software and hardware setup, implementation plan, timeline chart, and references. Certification courses for relevant technical skill sets may also be suggested."},
+            {"role": "user", "content": "How is the term work evaluated in ADP701?"},
+            {"role": "assistant", "content": "The term work evaluation in ADP701 is based on weekly log reports, project work contribution, project report (spiral bound), and term-end presentation (internal). The final certification and acceptance of term work ensure satisfactory performance in these aspects."},
+            {"role": "user", "content": "How is the final project evaluation conducted in ADP701?"},
+            {"role": "assistant", "content": "The final project evaluation in ADP701 includes oral and practical examinations conducted by internal and external examiners approved by the University of Mumbai at the end of the semester. Evaluation parameters include the quality of problem selected, clarity of problem definition and feasibility of solution, relevance to specialization/industrial trends, originality, clarity of objectives and scope, quality of analysis and design, quality of written and oral presentation, and assessment of individual as well as teamwork."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    }
+]

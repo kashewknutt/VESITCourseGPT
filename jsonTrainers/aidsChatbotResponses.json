@@ -49,6 +49,57 @@
             {"role": "user", "content": "Thank you."},
             {"role": "assistant", "content": "You're welcome!"}
         ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Semester VII program structure for Fourth Year AI&DS."},
+            {"role": "user", "content": "What are the courses offered in Semester VII?"},
+            {"role": "assistant", "content": "In Semester VII, the following courses are offered: Deep Learning, Big Data Analytics, Department Level Optional Course 1, Department Level Optional Course 2, Institute Level Optional Course 1, Deep Learning Lab, Big Data Analytics Lab, Department Level Optional Course 3 Lab, and Department Level Optional Course 4 Lab."},
+            {"role": "user", "content": "Can you explain the teaching scheme for ADC701?"},
+            {"role": "assistant", "content": "ADC701, Deep Learning, has a teaching scheme of 3 theory contact hours and 3 practical contact hours."},
+            {"role": "user", "content": "How are the courses evaluated in Semester VII?"},
+            {"role": "assistant", "content": "The examination scheme includes internal assessment and end semester exams, with specific marks allocated for theory, term work, and practicals for each course."},
+            {"role": "user", "content": "Are there any labs in Semester VII?"},
+            {"role": "assistant", "content": "Yes, there are labs for Deep Learning, Big Data Analytics, and Department Level Optional Courses."},
+            {"role": "user", "content": "What is the total credit assigned for Semester VII?"},
+            {"role": "assistant", "content": "The total credit assigned for Semester VII is 22."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Semester VIII program structure for Fourth Year AI&DS."},
+            {"role": "user", "content": "What are the courses offered in Semester VIII?"},
+            {"role": "assistant", "content": "In Semester VIII, the following courses are offered: Advanced Artificial Intelligence, Department Level Optional Course 5, Department Level Optional Course 6, Institute Level Optional Course 2, Advanced Artificial Intelligence Lab, Department Level Optional Course 5 Lab, and Department Level Optional Course 6 Lab."},
+            {"role": "user", "content": "Can you provide details about the teaching scheme for ADC801?"},
+            {"role": "assistant", "content": "ADC801, Advanced Artificial Intelligence, has a teaching scheme of 3 theory contact hours and 3 practical contact hours."},
+            {"role": "user", "content": "How are the courses evaluated in Semester VIII?"},
+            {"role": "assistant", "content": "The examination scheme includes internal assessment and end semester exams, with specific marks allocated for theory, term work, and practicals for each course."},
+            {"role": "user", "content": "Are there any labs in Semester VIII?"},
+            {"role": "assistant", "content": "Yes, there are labs for Advanced Artificial Intelligence and Department Level Optional Courses."},
+            {"role": "user", "content": "What is the total credit assigned for Semester VIII?"},
+            {"role": "assistant", "content": "The total credit assigned for Semester VIII is 21."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Department and Institute Optional Courses and Labs for Fourth Year AI&DS."},
+            {"role": "user", "content": "What are the optional courses and labs offered in Semester VII?"},
+            {"role": "assistant", "content": "In Semester VII, the department and institute offer courses such as Natural Language Processing, AI for Healthcare, Neural Network & Fuzzy System, User Experience Design with VR, Blockchain Technologies, Game Theory for Data Science, and more."},
+            {"role": "user", "content": "Can you explain the teaching scheme for ADDO7011?"},
+            {"role": "assistant", "content": "ADDO7011, Natural Language Processing, does not have a specific teaching scheme mentioned in the provided information."},
+            {"role": "user", "content": "How are the labs evaluated in Semester VII?"},
+            {"role": "assistant", "content": "The labs are evaluated based on internal assessment and end semester exams, with specific marks allocated for term work and practicals."},
+            {"role": "user", "content": "Are there any optional labs in Semester VII?"},
+            {"role": "assistant", "content": "Yes, there are optional labs for various courses such as Natural Language Processing, AI for Healthcare, and Neural Network & Fuzzy System."},
+            {"role": "user", "content": "What are the optional courses and labs offered in Semester VIII?"},
+            {"role": "assistant", "content": "In Semester VIII, the department and institute offer courses such as AI for financial & Banking application, Quantum Computing, Reinforcement Learning, Graph Data Science, Recommendation Systems, Social Media Analytics, and more."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
     }
 ]
   
