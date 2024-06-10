@@ -1,50 +1,74 @@
-import openai
-from openai import OpenAI
-import time
+import os
+import torch
+from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments
+from datasets import load_dataset
 
-# Import the API key from the secretKey module
-from secretKey import OPENAI_API_KEY
-
-
-#create the openai client
-client = OpenAI(api_key=OPENAI_API_KEY)
-
-# Define the path to your JSONL file
+# Load the dataset
 jsonl_file_path = 'combined_data.jsonl'
+dataset = load_dataset('json', data_files=jsonl_file_path, split='train')
 
-# Upload the file to OpenAI using the new API
-print("Uploading file...")
-response = client.files.create(
-    file=open(jsonl_file_path, 'rb'),
-    purpose='fine-tune'
+# Inspect the dataset structure
+print("Dataset sample:", dataset[0])
+
+# Initialize the tokenizer and model
+model_name = "gpt2"  # Replace with "gpt-neo-125M" or another model if desired
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name)
+
+# Add a padding token if not present
+if tokenizer.pad_token is None:
+    tokenizer.add_special_tokens({'pad_token': tokenizer.eos_token})
+
+# Prepare the conversations into the right format for tokenization
+def format_conversation(conversation):
+    formatted_conversation = ""
+    for message in conversation:
+        role = message['role']
+        content = message['content']
+        formatted_conversation += f"{role}: {content}\n"
+    return formatted_conversation
+
+def tokenize_function(examples):
+    conversations = examples['messages']
+    formatted_texts = [format_conversation(conversation) for conversation in conversations]
+    tokenized_texts = tokenizer(formatted_texts, truncation=True, padding="max_length", max_length=512)
+    
+    # Extract input_ids and labels from the tokenized_texts
+    return {
+        "input_ids": tokenized_texts["input_ids"],
+        "labels": tokenized_texts["input_ids"]  # Assuming autoregressive generation (predicting the next token)
+    }
+
+
+# Apply tokenization (batched=True processes multiple examples at once)
+print("Tokenizing the dataset...")
+tokenized_dataset = dataset.map(tokenize_function, batched=True)
+
+# Fine-tuning the model
+training_args = TrainingArguments(
+    output_dir='./results',
+    overwrite_output_dir=True,
+    num_train_epochs=3,
+    per_device_train_batch_size=4,
+    save_steps=10_000,
+    save_total_limit=2,
+    logging_dir='./logs',
+    logging_steps=500,
 )
-file_id = response.id
-print(f"File uploaded successfully. File ID: {file_id}")
 
-# Create a fine-tuning job using the new API
-print("Creating fine-tuning job...")
-fine_tune_response = client.fine_tuning.jobs.create(
-    training_file=file_id,
-    model='gpt-3.5-turbo'
+# Initialize the Trainer
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=tokenized_dataset,
 )
-fine_tune_id = fine_tune_response['id']
-print(f"Fine-tuning job created. Fine-tune ID: {fine_tune_id}")
 
-# Function to check the status of the fine-tuning job
-def check_fine_tune_status(fine_tune_id):
-    response = client.FineTune.retrieve(id=fine_tune_id)
-    return response['status']
+# Start the training
+print("Starting training...")
+trainer.train()
 
-# Polling the status of the fine-tuning job
-print("Checking fine-tuning status...")
-status = check_fine_tune_status(fine_tune_id)
-while status not in ['succeeded', 'failed']:
-    print(f"Status: {status}. Checking again in 5 seconds...")
-    time.sleep(5)
-    status = check_fine_tune_status(fine_tune_id)
-
-# Output the final status of the fine-tuning job
-if status == 'succeeded':
-    print("Fine-tuning completed successfully!")
-else:
-    print("Fine-tuning failed. Please check the job details for more information.")
+# Save the fine-tuned model
+print("Saving the fine-tuned model...")
+model.save_pretrained("./fine-tuned-model")
+tokenizer.save_pretrained("./fine-tuned-model")
+print("Model saved successfully!")
