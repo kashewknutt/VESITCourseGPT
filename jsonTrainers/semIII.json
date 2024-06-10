@@ -45,5 +45,125 @@
         {"role": "user", "content": "Thank you."},
         {"role": "assistant", "content": "You're welcome!"}
         ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Data Structure (ADC303)."},
+        {"role": "user", "content": "What are the prerequisites for ADC303?"},
+        {"role": "assistant", "content": "The prerequisite for ADC303 is knowledge of C Programming."},
+        {"role": "user", "content": "What are the course objectives of ADC303?"},
+        {"role": "assistant", "content": "The objectives include understanding the significance of data structures, implementing linear and nonlinear data structures, and selecting appropriate structures for real-world problems."},
+        {"role": "user", "content": "What are the learning outcomes of ADC303?"},
+        {"role": "assistant", "content": "Upon completion, students will be able to implement various data structures, handle operations like searching and insertion, and choose appropriate structures for problem-solving."},
+        {"role": "user", "content": "How many contact hours does ADC303 have?"},
+        {"role": "assistant", "content": "ADC303 has 8 hours of teaching for Stack and Queues and 10 hours for Linked List."},
+        {"role": "user", "content": "What is the term work evaluation for ADC303?"},
+        {"role": "assistant", "content": "The term work assessment includes tutorials, assignments, and mini-projects based on the syllabus."},
+        {"role": "user", "content": "Thank you."},
+        {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Digital Logic & Computer Organization and Architecture (ADC304)."},
+        {"role": "user", "content": "What are the prerequisites for ADC304?"},
+        {"role": "assistant", "content": "The prerequisite for ADC304 is knowledge of number systems."},
+        {"role": "user", "content": "What are the course objectives of ADC304?"},
+        {"role": "assistant", "content": "The objectives include understanding basic digital circuits, arithmetic operations, control signal generation, and memory organization."},
+        {"role": "user", "content": "What are the learning outcomes of ADC304?"},
+        {"role": "assistant", "content": "Upon completion, students will be able to demonstrate arithmetic algorithms, understand digital components, and describe memory organization, among other skills."},
+        {"role": "user", "content": "How many contact hours does ADC304 have?"},
+        {"role": "assistant", "content": "ADC304 has 6 hours of teaching for Computer Fundamentals and 8 hours for Data Representation and Arithmetic algorithms."},
+        {"role": "user", "content": "What is the term work evaluation for ADC304?"},
+        {"role": "assistant", "content": "The term work assessment includes tutorials, assignments, and mini-projects based on the syllabus."},
+        {"role": "user", "content": "Thank you."},
+        {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Computer Networks and Operating Systems (ADC305)."},
+        {"role": "user", "content": "What are the objectives of ADC305?"},
+        {"role": "assistant", "content": "The objectives include introducing basic concepts of operating systems, understanding process management, and exploring computer networks and OSI layers."},
+        {"role": "user", "content": "What are the learning outcomes of ADC305?"},
+        {"role": "assistant", "content": "Upon completion, students will understand OS structures, analyze process management, and explain networking concepts and protocols."},
+        {"role": "user", "content": "How many contact hours does ADC305 have?"},
+        {"role": "assistant", "content": "ADC305 has 8 hours of teaching for Process and Process Scheduling and 7 hours for Physical, Data Link Layer, and Network Layer."},
+        {"role": "user", "content": "What is the term work evaluation for ADC305?"},
+        {"role": "assistant", "content": "The term work assessment includes practical exams based on the syllabus and continuous assessment through experiments."},
+        {"role": "user", "content": "Thank you for the information."},
+        {"role": "assistant", "content": "You're welcome! If you have any more questions, feel free to ask."}
+        ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Data Structures Lab (ADL301)."},
+        {"role": "user", "content": "What are the objectives of ADL301?"},
+        {"role": "assistant", "content": "The objectives include implementing basic data structures, solving problems involving graphs and trees, and developing applications using data structure algorithms."},
+        {"role": "user", "content": "What are the learning outcomes of ADL301?"},
+        {"role": "assistant", "content": "Students will be able to implement various data structures, handle operations like insertion and deletion, and apply them to solve problems."},
+        {"role": "user", "content": "What experiments are suggested for ADL301?"},
+        {"role": "assistant", "content": "Experiments include implementing Stack ADT using arrays, converting infix to postfix expressions, and implementing various linked list ADTs."},
+        {"role": "user", "content": "How is the term work evaluated for ADL301?"},
+        {"role": "assistant", "content": "Term work consists of practical exams based on syllabus and evaluation of experiments, totaling 25 marks."},
+        {"role": "user", "content": "Thank you!"},
+        {"role": "assistant", "content": "No problem! Let me know if there's anything else I can assist you with."}
+        ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Digital Logic & Computer Organization and Architecture Lab (ADL302)."},
+        {"role": "user", "content": "What are the objectives of ADL302?"},
+        {"role": "assistant", "content": "The objectives include implementing arithmetic unit operations, designing digital circuits, and demonstrating CPU and ALU designs."},
+        {"role": "user", "content": "How many experiments are suggested for ADL302?"},
+        {"role": "assistant", "content": "There are 16 experiments suggested, covering topics like logic gates, arithmetic circuits, and CPU and memory design."},
+        {"role": "user", "content": "How is the term work evaluated for ADL302?"},
+        {"role": "assistant", "content": "Term work is evaluated based on satisfactory performance in laboratory work and obtaining minimum passing marks, with a total of 25 marks based on experiment evaluation."},
+        {"role": "user", "content": "What is the evaluation exam structure for ADL302?"},
+        {"role": "assistant", "content": "The evaluation includes a practical exam based on the syllabus of ADL302 and ADC305."},
+        {"role": "user", "content": "Thanks!"},
+        {"role": "assistant", "content": "You're welcome! If you have any more questions, feel free to ask."}
+        ]
+    },
+    {
+        "messages": [
+        {"role": "system", "content": "This information pertains to Computer Networks and Operating Systems Lab (ADL303)."},
+        {"role": "user", "content": "What are the objectives of ADL303?"},
+        {"role": "assistant", "content": "The objectives include gaining practical experience with operating system concepts, developing skills in Linux environment, and understanding network protocols."},
+        {"role": "user", "content": "How many experiments are suggested for ADL303?"},
+        {"role": "assistant", "content": "There are 12 suggested experiments covering Linux commands, shell scripting, process management, and network design."},
+        {"role": "user", "content": "How is the term work evaluated for ADL303?"},
+        {"role": "assistant", "content": "Term work is evaluated based on satisfactory performance in laboratory work and obtaining minimum passing marks, with a total of 25 marks based on experiment evaluation."},
+        {"role": "user", "content": "What is the evaluation exam structure for ADL303?"},
+        {"role": "assistant", "content": "The evaluation includes a practical exam based on the syllabus of ADL303 and ADC305."},
+        {"role": "user", "content": "Thank you!"},
+        {"role": "assistant", "content": "You're welcome! If you have any more questions, feel free to ask."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Object Oriented Programming with Java Lab (ADL304)."},
+            {"role": "user", "content": "What are the objectives of ADL304?"},
+            {"role": "assistant", "content": "The objectives include learning object-oriented programming concepts, studying Java programming language, and understanding GUI-based programming."},
+            {"role": "user", "content": "How is the term work evaluated for ADL304?"},
+            {"role": "assistant", "content": "Term work consists of 15 experiments and a mini project, with a total of 50 marks based on evaluation."},
+            {"role": "user", "content": "What is the evaluation exam structure for ADL304?"},
+            {"role": "assistant", "content": "The evaluation includes a practical exam based on the syllabus of ADL304, with students performing 5 assignments or experiments."},
+            {"role": "user", "content": "Thank you!"},
+            {"role": "assistant", "content": "You're welcome! If you have any more questions, feel free to ask."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Mobile Application Development Lab (ADS301)."},
+            {"role": "user", "content": "What are the objectives of ADS301?"},
+            {"role": "assistant", "content": "The objectives include learning Dart Programming Language, Flutter framework, and developing interactive Flutter apps."},
+            {"role": "user", "content": "How is the term work evaluated for ADS301?"},
+            {"role": "assistant", "content": "Term work consists of 5 assignments, activities, or experiments, with a total of 50 marks based on evaluation."},
+            {"role": "user", "content": "What is the evaluation exam structure for ADS301?"},
+            {"role": "assistant", "content": "The evaluation includes assessing the performance in the suggested assignments, activities, or experiments."},
+            {"role": "user", "content": "Got it, thanks!"},
+            {"role": "assistant", "content": "You're welcome! If you have any more questions or need assistance, feel free to ask."}
+        ]
     }
 ]
