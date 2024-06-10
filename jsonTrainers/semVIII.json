@@ -1,0 +1,282 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADSC801: Advanced Artificial Intelligence."},
+            {"role": "user", "content": "What are the objectives of ADSC801?"},
+            {"role": "assistant", "content": "The objectives of ADSC801 are: 1. To relate to the basic concepts of Probabilistic Models. 2. To understand the scope of Generative Networks in AI. 3. To recognize various components of Autoencoder Architecture and Training process. 4. To learn the fundamentals of Transfer Learning. 5. To provide students with a comprehensive understanding of ensemble methods and their applications. 6. To explore the nascent applications of AI."},
+            {"role": "user", "content": "What are the outcomes of ADSC801?"},
+            {"role": "assistant", "content": "The outcomes of ADSC801 are: 1. Acquiring basic knowledge of Probabilistic Models. 2. Analyzing the working and architecture of Generative Networks. 3. Interpreting various components and types of Autoencoders. 4. Understanding various aspects of Transfer Learning. 5. Applying ensemble learning techniques to real-world problems and demonstrating improved predictive performance. 6. Relating to the nascent technologies in the field of artificial intelligence."},
+            {"role": "user", "content": "Could you provide the module content of ADSC801?"},
+            {"role": "assistant", "content": "The module content of ADSC801 includes: 1. Generative and Probabilistic Models, 2. Generative Adversarial Network, 3. Variational Autoencoders, 4. Transfer Learning, 5. Ensemble learning, and 6. Nascent Technologies in AI. Each module has a specified number of hours allocated for learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADSC801?"},
+            {"role": "assistant", "content": "The textbooks for ADSC801 include 'Generative deep learning' by Foster, 'Probabilistic graphical models: principles and techniques' by Koller and Friedman, 'Deep Learning' by Goodfellow et al., 'Machine learning: a probabilistic perspective' by Murphy, and 'Ensemble methods: foundations and algorithms' by Zhou. The references cover various aspects of AI, including generative AI, metaverse, and quantum computing."},
+            {"role": "user", "content": "How is the internal assessment conducted in ADSC801?"},
+            {"role": "assistant", "content": "The internal assessment in ADSC801 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. Continuous assessment includes rubrics such as certification courses, content beyond syllabus presentation, proof of concept, mini projects, competitive programming events, multiple-choice questions, and GATE-based assignments."},
+            {"role": "user", "content": "What is the structure of the end semester theory examination for ADSC801?"},
+            {"role": "assistant", "content": "The end semester theory examination for ADSC801 consists of a question paper worth 60 marks, containing a total of five questions. All questions carry equal weightage of 20 marks each, and students need to solve any three out of five questions."},
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO8011: AI for Financial & Banking Application."},
+            {"role": "user", "content": "What are the objectives of ADDO8011?"},
+            {"role": "assistant", "content": "The objectives of ADDO8011 are: 1. To understand the impact of technology and digitization on financial and banking enterprises. 2. To explore blockchain technologies in the financial sector. 3. To examine digital money transfer mechanisms and GIFT cities. 4. To evaluate the benefits of digitization and cloud services in banking. 5. To analyze enterprise software solutions for financial operations. 6. To study the integration of AI in banking processes."},
+            {"role": "user", "content": "What are the outcomes of ADDO8011?"},
+            {"role": "assistant", "content": "The outcomes of ADDO8011 are: 1. Gaining knowledge of technology's influence on financial and banking enterprises. 2. Understanding the applications of blockchain in the financial sector. 3. Recognizing digital money transfer mechanisms and their role in digitization. 4. Evaluating the advantages of digitization and cloud services in banking. 5. Analyzing enterprise software solutions for financial operations. 6. Exploring the integration of AI in banking processes."},
+            {"role": "user", "content": "Could you provide the content hours for ADDO8011?"},
+            {"role": "assistant", "content": "The content hours for ADDO8011 cover various topics such as Information Technology Infrastructure, Digitization of Financial-Banking Enterprises, Financial Statistics and The Sharpe Ratio, Cluster Analysis, Gauging the Market Sentiment, Trading algorithms, and Fraud Analytics. Each topic has a specified number of hours allocated for learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADDO8011?"},
+            {"role": "assistant", "content": "The textbooks for ADDO8011 include 'Financial Analytics with R' by Bennett and Hugen, 'Artificial Intelligence in Finance: A Python-Based Guide' by Hilpisch, and 'Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques' by Baesens et al. The references cover various aspects of financial analytics, machine learning, and AI in finance."},
+            {"role": "user", "content": "How is the internal assessment conducted in ADDO8011?"},
+            {"role": "assistant", "content": "The internal assessment in ADDO8011 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. Continuous assessment includes rubrics such as certification courses, content beyond syllabus presentation, proof of concept, mini projects, competitive programming events, multiple-choice questions, and GATE-based assignments."},
+            {"role": "user", "content": "What is the structure of the end semester theory examination for ADDO8011?"},
+            {"role": "assistant", "content": "The end semester theory examination for ADDO8011 consists of a question paper worth 60 marks, containing a total of five questions. All questions carry equal weightage of 20 marks each, and students need to solve any three out of five questions."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO8011: AI for Financial & Banking Application."},
+            {"role": "user", "content": "What are the objectives of ADDO8011?"},
+            {"role": "assistant", "content": "The objectives of ADDO8011 are: 1. To understand the impact of technology and digitization on financial and banking enterprises. 2. To explore blockchain technologies in the financial sector. 3. To examine digital money transfer mechanisms and GIFT cities. 4. To evaluate the benefits of digitization and cloud services in banking. 5. To analyze enterprise software solutions for financial operations. 6. To study the integration of AI in banking processes."},
+            {"role": "user", "content": "What are the outcomes of ADDO8011?"},
+            {"role": "assistant", "content": "The outcomes of ADDO8011 are: 1. Gaining knowledge of technology's influence on financial and banking enterprises. 2. Understanding the applications of blockchain in the financial sector. 3. Recognizing digital money transfer mechanisms and their role in digitization. 4. Evaluating the advantages of digitization and cloud services in banking. 5. Analyzing enterprise software solutions for financial operations. 6. Exploring the integration of AI in banking processes."},
+            {"role": "user", "content": "Could you provide the content hours for ADDO8011?"},
+            {"role": "assistant", "content": "The content hours for ADDO8011 cover various topics such as Information Technology Infrastructure and Digitization of Financial-Banking Enterprises, Financial Statistics and The Sharpe Ratio, Cluster Analysis, Gauging the Market Sentiment, Trading algorithms, and Fraud Analytics. Each topic has a specified number of hours allocated for learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADDO8011?"},
+            {"role": "assistant", "content": "The textbooks for ADDO8011 include 'Financial Analytics with R' by Bennett and Hugen, 'Artificial Intelligence in Finance: A Python-Based Guide' by Hilpisch, and 'Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques' by Baesens et al. The references cover various aspects of financial analytics, machine learning, and AI in finance."},
+            {"role": "user", "content": "How is the internal assessment conducted in ADDO8011?"},
+            {"role": "assistant", "content": "The internal assessment in ADDO8011 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. Continuous assessment includes rubrics such as certification courses, content beyond syllabus presentation, proof of concept, mini projects, competitive programming events, multiple-choice questions, and GATE-based assignments."},
+            {"role": "user", "content": "What is the structure of the end semester theory examination for ADDO8011?"},
+            {"role": "assistant", "content": "The end semester theory examination for ADDO8011 consists of a question paper worth 60 marks, containing a total of five questions. All questions carry equal weightage of 20 marks each, and students need to solve any three out of five questions."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO8012: Quantum Computing."},
+            {"role": "user", "content": "What are the objectives of ADDO8012?"},
+            {"role": "assistant", "content": "The objectives of ADDO8012 are: 1. To understand basics of quantum computing. 2. To understand the mathematics required for quantum computing. 3. To understand the building blocks of quantum computing and design algorithms. 4. To understand quantum hardware principles and tools for quantum computing."},
+            {"role": "user", "content": "What are the outcomes of ADDO8012?"},
+            {"role": "assistant", "content": "The outcomes of ADDO8012 are: 1. Understanding basic concepts of quantum computing. 2. Illustrating building blocks of quantum computing through architecture and programming models. 3. Appraising various mathematical models required for quantum computing. 4. Discussing various quantum hardware building principles. 5. Identifying various quantum algorithms. 6. Describing the usage of tools for quantum computing."},
+            {"role": "user", "content": "Could you provide the module content hours for ADDO8012?"},
+            {"role": "assistant", "content": "The module content hours for ADDO8012 cover topics such as Introduction to Quantum Computing, Mathematical Foundations for Quantum Computing, Building Blocks for Quantum Program, Quantum Algorithms and Error Correction, Quantum Hardware, and OSS Toolkits for implementing Quantum program. Each topic has a specified number of hours allocated for learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADDO8012?"},
+            {"role": "assistant", "content": "The textbooks for ADDO8012 include 'Quantum Computation and Quantum Information' by Michael A. Nielsen, 'Quantum Computing Explained' by David McMahon, 'Practical Quantum Computing for Developers' by Vladimir Silva, and the Qiskit textbook available online. The references cover various aspects of quantum computing, spintronics, quantum error correction codes, and quantum mechanics."},
+            {"role": "user", "content": "How is the internal assessment conducted in ADDO8012?"},
+            {"role": "assistant", "content": "The internal assessment in ADDO8012 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. Continuous assessment includes rubrics such as certification courses, content beyond syllabus presentation, proof of concept, mini projects, competitive programming events, multiple-choice questions, and GATE-based assignments."},
+            {"role": "user", "content": "What is the structure of the end semester theory examination for ADDO8012?"},
+            {"role": "assistant", "content": "The end semester theory examination for ADDO8012 consists of a question paper worth 60 marks, containing a total of five questions. All questions carry equal weightage of 20 marks each, and students need to solve any three out of five questions."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO8013: Reinforcement Learning."},
+            {"role": "user", "content": "What are the objectives of ADDO8013?"},
+            {"role": "assistant", "content": "The objectives of ADDO8013 are: 1. To understand basics of quantum computing 2. To understand mathematics required for quantum computing 3. To understand building blocks of quantum computing and design algorithms 4. To understand quantum hardware principles and tools for quantum computing."},
+            {"role": "user", "content": "What are the outcomes of ADDO8013?"},
+            {"role": "assistant", "content": "The outcomes of ADDO8013 are: 1. Understanding basic concepts of quantum computing 2. Illustrating building blocks of quantum computing through architecture and programming models 3. Appraising various mathematical models required for quantum computing 4. Discussing various quantum hardware building principles 5. Identifying various quantum algorithms 6. Describing usage of tools for quantum computing."},
+            {"role": "user", "content": "Could you provide the module content hours for ADDO8013?"},
+            {"role": "assistant", "content": "The module content hours for ADDO8013 include topics such as Introduction to Quantum Computing, Mathematical Foundations for Quantum Computing, Building Blocks for Quantum Program, Quantum Algorithms and Error Correction, Quantum Hardware, and OSS Toolkits for implementing Quantum program. Each topic has a specified number of hours allocated for learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADDO8013?"},
+            {"role": "assistant", "content": "The textbooks for ADDO8013 include 'Quantum Computation and Quantum Information' by Michael A. Nielsen, 'Quantum Computing Explained' by David McMahon, and digital references to online courses and materials. References cover various aspects of quantum computing, including theoretical and practical applications."},
+            {"role": "user", "content": "How is the internal assessment conducted in ADDO8013?"},
+            {"role": "assistant", "content": "The internal assessment in ADDO8013 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. Continuous assessment includes rubrics such as certification courses, content beyond syllabus presentation, proof of concept, mini projects, competitive programming events, multiple-choice questions, and GATE-based assignments."},
+            {"role": "user", "content": "What is the structure of the end semester theory examination for ADDO8013?"},
+            {"role": "assistant", "content": "The end semester theory examination for ADDO8013 consists of a question paper worth 60 marks, containing a total of five questions. All questions carry equal weightage of 20 marks each, and students need to solve any three out of five questions."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO8021: Graph Data Science."},
+            {"role": "user", "content": "What are the objectives of ADDO8021?"},
+            {"role": "assistant", "content": "The objectives of ADDO8021 are: 1. To understand the basics of graphs, including definitions, connectivity, and properties. 2. To explore the use of graphs in solving puzzles and optimization problems. 3. To learn about the advantages of graph databases over relational and NoSQL databases. 4. To gain knowledge of data modeling with graphs, including the labeled property graph model. 5. To develop skills in building graph database applications, including data modeling and testing. 6. To explore real-world use cases and understand non-functional characteristics of graph databases."},
+            {"role": "user", "content": "What are the outcomes of ADDO8021?"},
+            {"role": "assistant", "content": "The outcomes of ADDO8021 are: 1. Demonstrating a solid understanding of graph concepts and properties. 2. Applying graph algorithms to solve puzzles and optimization problems. 3. Comparing graph databases with relational and NoSQL databases. 4. Modeling data using the labeled property graph model and avoiding common pitfalls. 5. Building graph database applications with proper data modeling and testing. 6. Analyzing and implementing graph database solutions for real-world use cases, considering non-functional characteristics."},
+            {"role": "user", "content": "Could you provide the module content hours for ADDO8021?"},
+            {"role": "assistant", "content": "The module content hours for ADDO8021 include topics such as Introduction to Graph, Introduction to Graph databases, Data Modeling with Graphs, Building a Graph Database Application, Graphs in the Real-World, and Case Study. Each topic has a specified number of hours allocated for learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADDO8021?"},
+            {"role": "assistant", "content": "The textbooks for ADDO8021 include 'Introduction to Graph Theory' by Robin J. Wilson, 'Probabilistic Graphical Models: Principles and Techniques' by Daphne Koller and Nir Friedman, and references to books and online resources on graph databases and applications. References cover various aspects of graph data science, including theory, modeling, and practical implementations."},
+            {"role": "user", "content": "How is the internal assessment conducted in ADDO8021?"},
+            {"role": "assistant", "content": "The internal assessment in ADDO8021 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. Continuous assessment includes rubrics such as certification courses, content beyond syllabus presentation, proof of concept, mini projects, competitive programming events, multiple-choice questions, and GATE-based assignments."},
+            {"role": "user", "content": "What is the structure of the end semester theory examination for ADDO8021?"},
+            {"role": "assistant", "content": "The end semester theory examination for ADDO8021 consists of a question paper worth 60 marks, containing a total of five questions. All questions carry equal weightage of 20 marks each, and students need to solve any three out of five questions."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADDO8023: Social Media Analytics."},
+            {"role": "user", "content": "What are the objectives of ADDO8023?"},
+            {"role": "assistant", "content": "The objectives of ADDO8023 are: 1. To familiarize learners with the concept of social media. 2. To familiarize learners with the concept of social media analytics and understand its significance. 3. To enable learners to develop skills required for analyzing the effectiveness of social media. 4. To familiarize learners with different tools of social media analytics. 5. To familiarize learners with different visualization techniques for social media analytics. 6. To examine the ethical and legal implications of leveraging social media data."},
+            {"role": "user", "content": "What are the outcomes of ADDO8023?"},
+            {"role": "assistant", "content": "The outcomes of ADDO8023 are: 1. Understanding the concept of social media. 2. Understanding the concept of social media analytics and its significance. 3. Analyzing the effectiveness of social media. 4. Using different social media analytics tools effectively and efficiently. 5. Using different effective visualization techniques to represent social media analytics. 6. Acquiring fundamental perspectives and hands-on skills needed to work with social media data."},
+            {"role": "user", "content": "Could you provide the module content hours for ADDO8023?"},
+            {"role": "assistant", "content": "The module content hours for ADDO8023 include topics such as Social Media Analytics: An Overview, Social Network Structure, Measures & Visualization, Social Media Text, Action & Hyperlink Analytics, Social Media Location & Search Engine Analytics, Social Information Filtering, and Social Media Analytics Applications and Privacy. Each topic has a specified number of hours allocated for learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADDO8023?"},
+            {"role": "assistant", "content": "The textbooks for ADDO8023 include 'Seven Layers of Social Media Analytics' by Gohar F. Khan, 'Analyzing the Social Web' by Jennifer Golbeck, 'Mining the Social Web' by Matthew A. Russell, and 'Social Network Data Analytics' edited by Charu Aggarwal. References cover various aspects of social media analytics, including techniques, insights, strategies, and case studies."},
+            {"role": "user", "content": "How is the internal assessment conducted in ADDO8023?"},
+            {"role": "assistant", "content": "The internal assessment in ADDO8023 consists of one Mid Term Test of 20 marks and Continuous Assessment of 20 marks. Continuous assessment includes rubrics such as certification courses, content beyond syllabus presentation, proof of concept, mini projects, competitive programming events, multiple-choice questions, and GATE-based assignments."},
+            {"role": "user", "content": "What is the structure of the end semester theory examination for ADDO8023?"},
+            {"role": "assistant", "content": "The end semester theory examination for ADDO8023 consists of a question paper worth 60 marks, containing a total of five questions. All questions carry equal weightage of 20 marks each, and students need to solve any three out of five questions."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Course Structure for ADL801: Advanced AI Lab."},
+            {"role": "user", "content": "What are the objectives of ADL801?"},
+            {"role": "assistant", "content": "The objectives of ADL801 are: 1. To articulate basic knowledge of fuzzy set theory through programming. 2. To design Associative Memory Networks. 3. To apply Unsupervised learning towards Networks design. 4. To demonstrate Special networks and its applications in soft computing. 5. To implement Hybrid computing systems."},
+            {"role": "user", "content": "What are the outcomes of ADL801?"},
+            {"role": "assistant", "content": "The outcomes of ADL801 are: 1. Implementing Fuzzy operations and functions towards Fuzzy-rule creations. 2. Building and training Associative Memory Network. 3. Building Unsupervised learning-based networks. 4. Designing and implementing architecture of Special Networks. 5. Implementing Neuro-Fuzzy hybrid computing applications."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADL801?"},
+            {"role": "assistant", "content": "The suggested experiments for ADL801 include designing and implementing various models such as Hidden Markov Models, Bayesian Network, Gaussian Mixture Models, Generative Multi-Layer Network Model, Deep Convolution Generative Multi-Layer Network Model, Conditional GAN Network, variational autoencoder, and exploring pre-trained models. It also includes case studies on emerging technologies in AI like Metaverse, Augmented reality, and mini project reports."},
+            {"role": "user", "content": "What are the useful links for ADL801?"},
+            {"role": "assistant", "content": "The useful links for ADL801 include links to online courses, tutorials, and resources related to the topics covered in the lab, such as NPTEL courses, TensorFlow tutorials, articles on LIME, and resources on generative adversarial networks (GANs)."},
+            {"role": "user", "content": "How is the term work evaluated in ADL801?"},
+            {"role": "assistant", "content": "The term work in ADL801 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks in term work. Total 25 marks are allocated for experiments."},
+            {"role": "user", "content": "What is the evaluation exam based on in ADL801?"},
+            {"role": "assistant", "content": "The evaluation exam in ADL801 is based on the subject and related lab work of Advanced AI, both theory and practical aspects."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADL801?"},
+            {"role": "assistant", "content": "The evaluation exam in ADL801 may include questions covering theoretical concepts, practical implementation of algorithms, analysis of results, and case study discussions related to advanced AI topics and the experiments conducted in the lab. The exam aims to assess the student's understanding and proficiency in advanced AI concepts and applications."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Lab Structure for ADDOL8011: AI for financial & banking application lab."},
+            {"role": "user", "content": "What are the objectives of ADDOL8011?"},
+            {"role": "assistant", "content": "The objectives of ADDOL8011 are: 1. To implement digital money transfer systems in the banking sector. 2. To calculate risk-adjusted performance measures for investment portfolios. 3. To apply cluster analysis to identify patterns in financial data. 4. To analyze market sentiment using the Markov regime switching model. 5. To design and back test trading algorithms for financial markets. 6. To detect and prevent fraudulent activities using fraud analytics techniques."},
+            {"role": "user", "content": "What are the outcomes of ADDOL8011?"},
+            {"role": "assistant", "content": "The outcomes of ADDOL8011 are: 1. Proficiency in implementing secure and efficient digital money transfer systems. 2. Ability to assess investment performance using risk-adjusted measures. 3. Competence in identifying meaningful patterns and segments in financial data. 4. Understanding of market sentiment and its impact on trading decisions. 5. Practical skills in developing and evaluating trading algorithms. 6. Knowledge of fraud detection methods for financial systems."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADDOL8011?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL8011 include setting up a Digital Money Transfer System, calculating Sharpe Ratios for Investment Portfolios, cluster analysis of financial data, analyzing market sentiment using the Markov Regime Switching Model, developing and backtesting trading algorithms, implementing advanced risk management techniques, fraud detection using machine learning algorithms, and visualizing fraud patterns and analytics, among others."},
+            {"role": "user", "content": "What are the textbooks and references for ADDOL8011?"},
+            {"role": "assistant", "content": "The textbooks for ADDOL8011 include 'Financial Analytics with R' by Mark J. Bennett and Dirk L. Hugen, 'Artificial Intelligence in Finance' by Yves Hilpisch, and 'Fraud Analytics Using Descriptive, Predictive, and Social Network Techniques' by Bart Baesens, Veronique Van Vlasselaer, and Wouter Verbeke. References cover various aspects of financial analytics, machine learning, and fraud detection techniques."},
+            {"role": "user", "content": "How is the term work evaluated in ADDOL8011?"},
+            {"role": "assistant", "content": "The term work in ADDOL8011 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam based on in ADDOL8011?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8011 is based on the subject and related lab work of AI for financial & banking application Lab, covering both theoretical concepts and practical implementation."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADDOL8011?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8011 may include questions covering theoretical concepts of AI in finance, application of machine learning algorithms in financial analytics, analysis of financial data, interpretation of results, and case studies on fraud detection and prevention in financial systems. The exam aims to assess the student's understanding and proficiency in applying AI techniques to financial and banking applications."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Lab Structure for ADDOL8012: Quantum Computing Lab."},
+            {"role": "user", "content": "What are the objectives of ADDOL8012?"},
+            {"role": "assistant", "content": "The objectives of ADDOL8012 are: 1. To implement fundamental quantum computing concepts. 2. To learn quantum computation and quantum information. 3. To understand quantum entanglement, quantum algorithms. 4. To understand quantum information theory and channels."},
+            {"role": "user", "content": "What are the outcomes of ADDOL8012?"},
+            {"role": "assistant", "content": "The outcomes of ADDOL8012 are: 1. Implementing basic quantum computing logic by building dice and random numbers using open-source simulation tools. 2. Understanding quantum logic gates using open-source simulation tools. 3. Implementing quantum circuits using open-source simulation tools. 4. Implementing quantum algorithms using open-source simulation tools."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADDOL8012?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL8012 include building Quantum dice, Quantum Random Number Generation, composing simple quantum circuits with q-gates, implementation of Shor's Algorithm, Grover's Algorithm, Deutsch's Algorithm, Deutsch-Jozsa's Algorithm, Quantum Circuits, Qubit Gates, Bell Circuit & GHZ Circuit, Accuracy of Quantum Phase Estimation, and mini-projects such as implementing an API for efficient search using Grover's Algorithm or Integer factorization using Shor's Algorithm."},
+            {"role": "user", "content": "What are the useful links for ADDOL8012?"},
+            {"role": "assistant", "content": "The useful links for ADDOL8012 include resources for quantum computing development kits and simulators, such as IBM Quantum Experience, Microsoft Quantum Development Kit, Forest SDK PyQuil, Google Quantum CIRQ, and Qiskit Labs IBM."},
+            {"role": "user", "content": "How is the term work evaluated in ADDOL8012?"},
+            {"role": "assistant", "content": "The term work in ADDOL8012 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam based on in ADDOL8012?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8012 is based on the subject and related lab work of Quantum Computing, covering both theoretical concepts and practical implementation."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADDOL8012?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8012 may include questions covering theoretical concepts of quantum computing, quantum algorithms, quantum gates, circuit design, and implementation of quantum algorithms using simulation tools. The exam aims to assess the student's understanding and proficiency in quantum computing principles and applications."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Lab Structure for ADDOL8013: Reinforcement Learning Lab."},
+            {"role": "user", "content": "What are the objectives of ADDOL8013?"},
+            {"role": "assistant", "content": "The objectives of ADDOL8013 are: 1. To introduce the fundamentals of reinforcement learning and problem formulation using MDPs and Bandit problems. 2. To explore different exploration strategies and their impact on online learning scenarios. 3. To understand dynamic programming algorithms for solving Markov Decision Processes. 4. To apply dynamic programming techniques to solve small-scale MDP problems. 5. To implement and compare Monte Carlo methods and Temporal-Difference learning algorithms. 6. To explore real-world applications of reinforcement learning in domains such as autonomous driving or robotics."},
+            {"role": "user", "content": "What are the outcomes of ADDOL8013?"},
+            {"role": "assistant", "content": "The outcomes of ADDOL8013 are: 1. Gain a solid understanding of reinforcement learning concepts and problem formulation. 2. Evaluate and compare exploration strategies in online learning scenarios. 3. Solve Markov Decision Processes using dynamic programming algorithms. 4. Apply dynamic programming techniques to solve small-scale MDP problems. 5. Implement and analyze Monte Carlo methods and Temporal-Difference learning algorithms. 6. Explore practical applications of reinforcement learning in real-world domains."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADDOL8013?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL8013 include implementing a simple grid-world environment and training an agent using basic Q-learning, implementing a multi-armed bandit problem and comparing different exploration strategies, implementing dynamic programming algorithms for Markov Decision Processes, applying Monte Carlo methods and Temporal Difference learning algorithms to train an agent, exploring the exploration vs. exploitation trade-off, implementing function approximation and deep reinforcement learning techniques, transfer learning, multi-task reinforcement learning, and case studies on real-world applications of reinforcement learning."},
+            {"role": "user", "content": "What are the textbooks and references for ADDOL8013?"},
+            {"role": "assistant", "content": "The textbooks for ADDOL8013 include 'Reinforcement Learning: An Introduction' by Richard S. Sutton and Andrew G. Barto, 'The Reinforcement Learning Workshop' by Alessandro Palmas, Dr. Alexandra Galina Petre, and Emanuele Ghelfi, 'Reinforcement Learning Industrial Applications with Intelligent Agents' by Phil Winder, and 'Practical Reinforcement Learning' by Dr. Engr S M Farrukh Akhtar. References cover various aspects of reinforcement learning, including modern methods and applications."},
+            {"role": "user", "content": "How is the term work evaluated in ADDOL8013?"},
+            {"role": "assistant", "content": "The term work in ADDOL8013 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam based on in ADDOL8013?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8013 is based on the subject and related lab work of Reinforcement Learning, covering both theoretical concepts and practical implementation."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADDOL8013?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8013 may include questions covering theoretical concepts of reinforcement learning, problem formulation, exploration vs. exploitation, dynamic programming, Monte Carlo methods, Temporal-Difference learning, function approximation, deep reinforcement learning, transfer learning, multi-task learning, and case studies on real-world applications. The exam aims to assess the student's understanding and proficiency in reinforcement learning principles and their application."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Lab Structure for ADDOL8021: Graph Data Science Lab."},
+            {"role": "user", "content": "What are the objectives of ADDOL8021?"},
+            {"role": "assistant", "content": "The objectives of ADDOL8021 are: 1. To understand graph database fundamentals and their advantages. 2. To design and implement effective data models using the labeled property graph model. 3. To develop proficiency in querying and analyzing graph data using Cypher. 4. To gain knowledge of graph database administration tasks and data management. 5. To apply graph database techniques to real-world use cases. 6. To develop practical skills in graph database application development."},
+            {"role": "user", "content": "What are the outcomes of ADDOL8021?"},
+            {"role": "assistant", "content": "The outcomes of ADDOL8021 are: 1. Comprehensive understanding of graph databases and their benefits. 2. Proficiency in creating data models for representing complex relationships. 3. Ability to write efficient queries and analyze graph data effectively. 4. Competence in administering and managing graph databases. 5. Application of graph database techniques to solve real-world problems. 6. Understanding of developing graph database applications."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADDOL8021?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL8021 include installing and setting up a graph database system, designing data models using the labeled property graph model, performing basic and advanced graph queries using Cypher, learning and practicing essential administrative tasks, importing and exporting data, exploring built-in graph algorithms, visualizing and exploring graph data, optimizing performance, scaling and replication, and applying graph database techniques to real-world use cases."},
+            {"role": "user", "content": "What are the textbooks and references for ADDOL8021?"},
+            {"role": "assistant", "content": "The textbooks for ADDOL8021 include 'Introduction to Graph Theory' by Robin J. Wilson, 'Probabilistic Graphical Models: Principles and Techniques' by Daphne Koller and Nir Friedman, 'Graph databases' by Ian Robinson, Jim Webber & Emil Eifrem. References cover various aspects of graph databases, including fundamentals, modeling, querying, and administration."},
+            {"role": "user", "content": "How is the term work evaluated in ADDOL8021?"},
+            {"role": "assistant", "content": "The term work in ADDOL8021 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam based on in ADDOL8021?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8021 is based on the subject and related lab work of Graph Data Science, covering both theoretical concepts and practical implementation."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADDOL8021?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8021 may include questions covering theoretical concepts of graph databases, data modeling, querying languages like Cypher, graph database administration, built-in algorithms, data visualization, performance optimization, scaling and replication, and real-world applications. The exam aims to assess the student's understanding and proficiency in graph data science principles and their application."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Lab Structure for ADDOL8012: Quantum Computing Lab."},
+            {"role": "user", "content": "What are the objectives of ADDOL8012?"},
+            {"role": "assistant", "content": "The objectives of ADDOL8012 are: 1. To implement fundamental quantum computing concepts. 2. To learn quantum computation and quantum information. 3. To understand quantum entanglement, quantum algorithms. 4. To understand quantum information theory and channels."},
+            {"role": "user", "content": "What are the outcomes of ADDOL8012?"},
+            {"role": "assistant", "content": "The outcomes of ADDOL8012 are: 1. Implement basic quantum computing logic using open-source simulation tools. 2. Understand quantum logic gates. 3. Implement quantum circuits. 4. Implement quantum algorithms."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADDOL8012?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL8012 include building quantum dice, random number generation, composing simple quantum circuits with q-gates, implementing Shor's Algorithm, Grover's Algorithm, Deutsch's Algorithm, Deutsch-Jozsa's Algorithm, Bell Circuit & GHZ Circuit, Quantum Circuits, Qubit Gates, and exploring the accuracy of Quantum Phase Estimation."},
+            {"role": "user", "content": "What are the textbooks and references for ADDOL8012?"},
+            {"role": "assistant", "content": "The textbooks for ADDOL8012 include 'Introduction to Graph Theory' by Robin J. Wilson, 'Probabilistic Graphical Models: Principles and Techniques' by Daphne Koller and Nir Friedman, 'Graph databases' by Ian Robinson, Jim Webber & Emil Eifrem. References cover various aspects of graph databases, including fundamentals, modeling, querying, and administration."},
+            {"role": "user", "content": "How is the term work evaluated in ADDOL8012?"},
+            {"role": "assistant", "content": "The term work in ADDOL8012 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam based on in ADDOL8012?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8012 is based on the subject and related lab work of Quantum Computing, covering both theoretical concepts and practical implementation."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADDOL8012?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8012 may include questions covering theoretical concepts of quantum computing, quantum logic gates, quantum circuits, quantum algorithms, and their applications. The exam aims to assess the student's understanding and proficiency in quantum computing principles and their application."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Lab Structure for ADDOL8022: Recommendation Systems Lab."},
+            {"role": "user", "content": "What are the objectives of ADDOL8022?"},
+            {"role": "assistant", "content": "The objectives of ADDOL8022 are: 1. To understand the key concepts of Recommendation systems. 2. Design and implement cluster-based approaches for recommendation systems. 3. Design, implement and analyze classification algorithms for recommendation systems. 4. To understand various Recommendation system Algorithms. 5. To understand data processing for Recommendation system Algorithms."},
+            {"role": "user", "content": "What are the outcomes of ADDOL8022?"},
+            {"role": "assistant", "content": "The outcomes of ADDOL8022 are: 1. Understand mathematics and representation of data for recommendation systems. 2. Design, implement and analyze Collaborative filtering based for recommendation systems. 3. Design, implement and analyze Content-based recommendation systems. 4. Design, implement and analyze Knowledge-based recommendation systems. 5. Understanding feature engineering and pre-processing for recommendation systems. 6. To solve real world problems using recommendation systems."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADDOL8022?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL8022 include implementation of matrix operations and data representation, experimenting on clustering methods, feature engineering and pre-processing of data, implementation of Bayes classifier, user-based nearest neighbor recommendation, item-based nearest neighbor recommendation, content-based recommendation system, knowledge-based recommendation system, implementation of recommendation systems using hybrid and ensembled approaches, implementation of a regression-based recommendation system, and analysis of results based on different evaluation parameters and graphical representations."},
+            {"role": "user", "content": "What are the textbooks and references for ADDOL8022?"},
+            {"role": "assistant", "content": "The textbooks for ADDOL8022 include 'Python Social Media Analytics: Analyze and visualize data from Twitter, YouTube, GitHub, and more' by Siddhartha Chatterjee and Michal Krystyanczuk, 'Learning Social Media Analytics with R' by Raghav Bali, Dipanjan Sarkar, and Tushar Sharma, 'Analyzing the social web' by Jennifer Golbeck, 'Mining the Social Web: Data Mining Facebook, Twitter, Linkedin, Google+, Github, and More' by Matthew A. Russell, and 'Social Network Data Analytics' edited by Charu Aggarwal."},
+            {"role": "user", "content": "How is the term work evaluated in ADDOL8022?"},
+            {"role": "assistant", "content": "The term work in ADDOL8022 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam based on in ADDOL8022?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8022 is based on the subject and related lab work of Recommendation Systems, covering both theoretical concepts and practical implementation."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADDOL8022?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8022 may include questions covering theoretical concepts of recommendation systems, clustering methods, classification algorithms, feature engineering, data processing, and various recommendation algorithms. The exam aims to assess the student's understanding and proficiency in recommendation system principles and their application."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Lab Structure for ADDOL8023: Social Media Analytics Lab."},
+            {"role": "user", "content": "What are the objectives of ADDOL8023?"},
+            {"role": "assistant", "content": "The objectives of ADDOL8023 are: 1. To understand the fundamental concepts of social media networks. 2. To learn various social media analytics tools and evaluation matrices. 3. To collect and store social media data. 4. To analyze and visualize social media data. 5. To design and develop social media analytics models. 6. To design and build a social media analytics application."},
+            {"role": "user", "content": "What are the outcomes of ADDOL8023?"},
+            {"role": "assistant", "content": "The outcomes of ADDOL8023 are: 1. Understand characteristics and types of social media networks. 2. Use social media analytics tools for business. 3. Collect, monitor, store, and track social media data. 4. Analyze and visualize social media data from multiple platforms. 5. Design and develop content and structure-based social media analytics models. 6. Design and implement social media analytics applications for business."},
+            {"role": "user", "content": "Could you provide the suggested experiments for ADDOL8023?"},
+            {"role": "assistant", "content": "The suggested experiments for ADDOL8023 include studying various social media platforms and analytics tools, data collection, data cleaning and storage, exploratory data analysis, development of content and structure-based social media analytics models, dashboard and reporting tool development, designing creative content for social media promotion, analyzing competitor activities, and developing social media text analytics models."},
+            {"role": "user", "content": "What are the textbooks and references for ADDOL8023?"},
+            {"role": "assistant", "content": "The textbooks for ADDOL8023 include 'Python Social Media Analytics: Analyze and visualize data from Twitter, YouTube, GitHub, and more' by Siddhartha Chatterjee and Michal Krystyanczuk, 'Learning Social Media Analytics with R' by Raghav Bali, Dipanjan Sarkar, and Tushar Sharma, 'Analyzing the social web' by Jennifer Golbeck, 'Mining the Social Web: Data Mining Facebook, Twitter, Linkedin, Google+, Github, and More' by Matthew A. Russell, and 'Social Network Data Analytics' edited by Charu Aggarwal."},
+            {"role": "user", "content": "How is the term work evaluated in ADDOL8023?"},
+            {"role": "assistant", "content": "The term work in ADDOL8023 should consist of 8 to 12 experiments. The final certification and acceptance of term work ensure satisfactory performance of laboratory work and minimum passing marks."},
+            {"role": "user", "content": "What isthe evaluation exam based on in ADDOL8023?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8023 is based on the subject and related lab work of Social Media Analytics, covering both theoretical concepts and practical implementation."},
+            {"role": "user", "content": "Could you provide more details on the evaluation exam for ADDOL8023?"},
+            {"role": "assistant", "content": "The evaluation exam in ADDOL8023 may include questions covering theoretical concepts of social media networks, social media analytics tools, data collection and storage, data analysis and visualization, content and structure-based analytics models, dashboard development, competitor analysis, and social media text analytics. The exam aims to assess the student's understanding and proficiency in social media analytics principles and their application."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Major Project (ADP801)."},
+            {"role": "user", "content": "What are the objectives of ADP801?"},
+            {"role": "assistant", "content": "The objectives of ADP801 are: 1. To acquaint with the process of identifying the needs and converting it into the problem. 2. To familiarize the process of solving the problem in a group. 3. To acquaint with the process of applying basic engineering fundamentals to attempt solutions to the problems. 4. To inculcate the process of self-learning and research."},
+            {"role": "user", "content": "What are the outcomes of ADP801?"},
+            {"role": "assistant", "content": "The outcomes of ADP801 are: 1. Identify problems based on societal/research needs. 2. Apply knowledge and skill to solve societal problems in a group. 3. Draw the proper inferences from available results through theoretical/experimental/simulations. 4. Analyze the impact of solutions in societal and environmental context for sustainable development. 5. Demonstrate capabilities of self-learning in a group, which leads to lifelong learning. 6. Demonstrate project management principles during project work."},
+            {"role": "user", "content": "What are the guidelines for ADP801?"},
+            {"role": "assistant", "content": "The guidelines for ADP801 include: 1. Internal guide has to keep track of the progress of the project and also has to maintain attendance report. This progress report can be used for awarding term work marks. 2. Project Report Format: At the end of semester, each group needs to prepare a project report as per the guidelines issued by the University of Mumbai. Report should be submitted in hardcopy. Also, each group should submit softcopy of the report along with project documentation, implementation code, required utilities, software and user Manuals. A project report should preferably contain at least following details: Abstract, Introduction, Literature Survey/Existing system, Limitation Existing system or research gap, Problem Statement and Objective, Proposed System, Analysis/Framework/Algorithm, Design details, Methodology (your approach to solve the problem) Proposed System, Experimental Set up, Details of Database or details about input to systems or selected data, Performance Evaluation Parameters (for Validation), Software and Hardware Setup, Results and Discussion, Conclusion and Future Work,"}
+        ]
+    }
+]
