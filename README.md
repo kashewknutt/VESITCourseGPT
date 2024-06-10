@@ -22,6 +22,7 @@ This repository contains the code and instructions to fine-tune the GPT model fo
             ...
         ]
         ```
+
 2. **Convert JSON to JSONL**
     - Use a Python script to convert the structured JSON files to a single JSONL file.
     - JSONL format is preferred for fine-tuning GPT.
@@ -41,6 +42,7 @@ This repository contains the code and instructions to fine-tune the GPT model fo
 - `jsonTrainers/`: Folder containing the structured JSON files.
 - `jsonTojsonl.py`: Python script to convert JSON files to JSONL format.
 - `finetune.py`: Python script to fine-tune the GPT model.
+- `chatbot.py`: Python script containing the code for the chatbot.
 
 ## Usage
 
@@ -49,6 +51,7 @@ This repository contains the code and instructions to fine-tune the GPT model fo
 3. Run the `jsonTojsonl.py` script to convert JSON to JSONL.
 4. Run the `finetune.py` script to initiate the fine-tuning process.
 5. Monitor the training process and save the fine-tuned model once training is complete.
+6. Use the `chatbot.py` script to interact with the trained model and ask questions related to the college syllabus.
 
 ## Notes
 
