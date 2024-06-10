@@ -1,18 +1,166 @@
-{
-    "messages": [
-      {"role": "system", "content": "This information pertains to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
-      {"role": "user", "content": "What are the courses offered in Semester IV?"},
-      {"role": "assistant", "content": "In Semester IV, the following courses are offered: Engineering Mathematics-IV, Analysis of Algorithm, Database Management System, Theory of Computer Science, Internet of Things."},
-      {"role": "user", "content": "Can you provide details about the examination scheme for the course ADC405?"},
-      {"role": "assistant", "content": "For ADC405, Internet of Things, the examination scheme includes 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end semester exam."},
-      {"role": "user", "content": "How many credits are assigned for Semester IV?"},
-      {"role": "assistant", "content": "The total credit assigned for Semester IV is 23."},
-      {"role": "user", "content": "Is there a lab for ADL403, Internet of Things Lab?"},
-      {"role": "assistant", "content": "Yes, there is a lab for ADL403."},
-      {"role": "user", "content": "What is the teaching scheme for the course ADL404?"},
-      {"role": "assistant", "content": "ADL404, Python Programming Lab, has a teaching scheme of 2 practical contact hours and 2 tutorial contact hours."},
-      {"role": "user", "content": "Thank you."},
-      {"role": "assistant", "content": "You're welcome!"}
-    ]
-  }
+[
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "What are the courses offered in Semester IV?"},
+            {"role": "assistant", "content": "In Semester IV, the following courses are offered: Engineering Mathematics-IV, Analysis of Algorithm, Database Management System, Theory of Computer Science, Internet of Things."},
+            {"role": "user", "content": "Can you provide details about the examination scheme for the course ADC405?"},
+            {"role": "assistant", "content": "For ADC405, Internet of Things, the examination scheme includes 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end semester exam."},
+            {"role": "user", "content": "How many credits are assigned for Semester IV?"},
+            {"role": "assistant", "content": "The total credit assigned for Semester IV is 23."},
+            {"role": "user", "content": "Is there a lab for ADL403, Internet of Things Lab?"},
+            {"role": "assistant", "content": "Yes, there is a lab for ADL403."},
+            {"role": "user", "content": "What is the teaching scheme for the course ADL404?"},
+            {"role": "assistant", "content": "ADL404, Python Programming Lab, has a teaching scheme of 2 practical contact hours and 2 tutorial contact hours."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Analysis of Algorithms course (ADC402)."},
+            {"role": "user", "content": "What are the objectives of ADC402?"},
+            {"role": "assistant", "content": "The objectives of ADC402 include providing mathematical approaches for analyzing algorithms, understanding and solving problems using various algorithmic approaches, and analyzing algorithms using different methods."},
+            {"role": "user", "content": "How is the term work evaluated for ADC402?"},
+            {"role": "assistant", "content": "Term work for ADC402 involves assessments through tutorials, assignments, viva, and mini projects based on the syllabus."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC402?"},
+            {"role": "assistant", "content": "Internal assessment includes one mid-term test of 20 marks and continuous assessment of 20 marks. Continuous assessment involves various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC402?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC402 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students need to solve any three out of the five questions."},
+            {"role": "user", "content": "Can you provide some useful links related to ADC402?"},
+            {"role": "assistant", "content": "Certainly! Here are some useful links related to ADC402: 1. [NPTEL Course](https://nptel.ac.in/courses/106/106/106106131/) 2. [SWAYAM Course](https://swayam.gov.in/nd1_noc19_cs47/preview) 3. [Coursera Specialization](https://www.coursera.org/specializations/algorithms) 4. [MOOC List](https://www.mooc-list.com/tags/algorithms)"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Engineering Mathematics-IV course (ADC401)."},
+            {"role": "user", "content": "What are the objectives of ADC401?"},
+            {"role": "assistant", "content": "The objectives of ADC401 include building a strong foundation in mathematics, providing students with fundamentals necessary to solve complex engineering problems, and preparing students to work as part of teams on multidisciplinary projects."},
+            {"role": "user", "content": "How is the term work evaluated for ADC401?"},
+            {"role": "assistant", "content": "Term work for ADC401 consists of assessments through tutorials, assignments, viva, and mini projects based on the syllabus, with a total of 25 marks."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC401?"},
+            {"role": "assistant", "content": "Internal assessment for ADC401 includes one mid-term test of 20 marks and continuous assessment of 20 marks. Continuous assessment involves various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC401?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC401 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students need to solve any three out of the five questions."},
+            {"role": "user", "content": "Can you provide some useful links related to ADC401?"},
+            {"role": "assistant", "content": "Certainly! Here are some useful links related to ADC401: 1. [NPTEL Course](https://nptel.ac.in/courses/106/106/106106131/) 2. [SWAYAM Course](https://swayam.gov.in/nd1_noc19_cs47/preview) 3. [Coursera Specialization](https://www.coursera.org/specializations/algorithms) 4. [MOOC List](https://www.mooc-list.com/tags/algorithms)"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Database Management System course (ADC403)."},
+            {"role": "user", "content": "What are the objectives of ADC403?"},
+            {"role": "assistant", "content": "The objectives of ADC403 include developing entity-relationship data models, learning relational algebra, applying normalization techniques, and understanding concepts of transaction, concurrency control, and recovery techniques."},
+            {"role": "user", "content": "How is the term work evaluated for ADC403?"},
+            {"role": "assistant", "content": "Term work for ADC403 consists of assessments through tutorials, assignments, viva, and mini projects based on the syllabus, with a total of 25 marks."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC403?"},
+            {"role": "assistant", "content": "Internal assessment for ADC403 includes one mid-term test of 20 marks and continuous assessment of 20 marks. Continuous assessment involves various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC403?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC403 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students need to solve any three out of the five questions."},
+            {"role": "user", "content": "Can you provide some useful links related to ADC403?"},
+            {"role": "assistant", "content": "Certainly! Here are some useful links related to ADC403: 1. [NPTEL Course](https://nptel.ac.in/courses/106/105/106105175/) 2. [SWAYAM Course](https://swayam.gov.in/nd1_noc19_cs46/preview) 3. [Class Central Course](https://www.classcentral.com/course/swayam-database-management-system-9914) 4. [MOOC List](https://www.mooc-list.com/tags/dbms)"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Theory of Computer Science course (ADC404)."},
+            {"role": "user", "content": "What are the objectives of ADC404?"},
+            {"role": "assistant", "content": "The objectives of ADC404 include learning fundamentals of Regular and Context Free Grammars and Languages, understanding the relation between Regular Language and Finite Automata, designing Automata and machines, and understanding the concepts of PDA and TM."},
+            {"role": "user", "content": "How is the term work evaluated for ADC404?"},
+            {"role": "assistant", "content": "Term work for ADC404 consists of assessments through tutorials, assignments, viva, and mini projects based on the syllabus, with a total of 25 marks."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC404?"},
+            {"role": "assistant", "content": "Internal assessment for ADC404 includes one mid-term test of 20 marks and continuous assessment of 20 marks. Continuous assessment involves various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC404?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC404 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students need to solve any three out of the five questions."},
+            {"role": "user", "content": "Can you provide some useful links related to ADC404?"},
+            {"role": "assistant", "content": "Certainly! Here are some useful links related to ADC404: 1. [NPTEL Course](https://nptel.ac.in/courses/106/105/106105175/) 2. [SWAYAM Course](https://swayam.gov.in/nd1_noc19_cs46/preview) 3. [Class Central Course](https://www.classcentral.com/course/swayam-database-management-system-9914) 4. [MOOC List](https://www.mooc-list.com/tags/dbms)"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Internet of Things course (ADC405)."},
+            {"role": "user", "content": "What are the objectives of ADC405?"},
+            {"role": "assistant", "content": "The objectives of ADC405 include comprehending the characteristics and conceptual framework of IoT, understanding IoT architectures, correlating smart objects and IoT access technologies, interpreting edge-to-cloud protocols, exploring data analytics and visualization, and examining IoT applications."},
+            {"role": "user", "content": "How is the term work evaluated for ADC405?"},
+            {"role": "assistant", "content": "Term work for ADC405 includes assessments through tutorials, assignments, viva, and mini projects based on the syllabus, with a total of 25 marks."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC405?"},
+            {"role": "assistant", "content": "Internal assessment for ADC405 includes one mid-term test of 20 marks and continuous assessment of 20 marks. Continuous assessment involves various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC405?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC405 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students need to solve any three out of the five questions."},
+            {"role": "user", "content": "Can you provide some useful links related to ADC405?"},
+            {"role": "assistant", "content": "Certainly! Here are some useful links related to ADC405: 1. [Arsheep Bahga, Vijay Madisetti - Internet Of Things: A Hands-On Approach](https://www.upkar.in/internet-of-things-9789353832513-2223) 2. [David Hanes et al. - IoT Fundamentals Networking Technologies, Protocols, and Use Cases for the Internet of Things](https://www.amazon.com/IoT-Fundamentals-Networking-Technologies-Protocols/dp/1587144563)"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Analysis of Algorithms Lab (ADL401)."},
+            {"role": "user", "content": "What are the objectives of ADL401?"},
+            {"role": "assistant", "content": "The objectives include introducing methods of designing and analyzing algorithms, designing and implementing efficient algorithms for specific applications, strengthening the ability to identify and apply suitable algorithms for real-world problems, and analyzing worst-case running time of algorithms."},
+            {"role": "user", "content": "What are the lab outcomes for ADL401?"},
+            {"role": "assistant", "content": "At the end of the course, students will be able to implement algorithms using different approaches, analyze the complexities of various algorithms, and compare the complexity of algorithms for specific problems."},
+            {"role": "user", "content": "Can you provide some suggested practical experiments for ADL401?"},
+            {"role": "assistant", "content": "Sure! Here are some suggested experiments for ADL401: 1. Introduction: Selection sort, Insertion sort, Bubble sort, Shell sort, Heap sort, Merge sort, Quick sort, Radix sort, Counting sort, Bucket sort 2. Divide and Conquer Approach: Finding Minimum and Maximum, Merge sort, Quick sort, Binary search, Closest pair of points, Strassen's algorithm, Karatsuba algorithm, Fast Fourier Transform, Closest pair of points in 3D 3. Greedy Method Approach: Single source shortest path (Dijkstra), Fractional Knapsack problem, Job sequencing with deadlines, Minimum cost spanning trees (Kruskal and Prim’s algorithm), Huffman coding, Task scheduling, Activity selection problem, Fractional knapsack problem with multiple occurrences 4. Dynamic Programming Approach: Single source shortest path (Bellman Ford), All pair shortest path (Floyd Warshall), 0/1 knapsack, Travelling salesperson problem, Longest common subsequence, Matrix chain multiplication, Optimal binary search trees, Longest increasing subsequence, Coin change problem, Edit distance 5. Backtracking and Branch and bound: N-queen problem, Sum of subsets, Graph coloring, Hamiltonian cycle, Subset sum problem, Knight's tour, Rat in a maze, Sudoku solver, Word break problem 6. String Matching Algorithms: The Naïve string-matching Algorithms, The Rabin Karp algorithm, The Knuth-Morris-Pratt algorithm, Boyer-Moore algorithm, Finite automaton algorithm, Shift-or algorithm, Aho-Corasick algorithm, Commentz-Walter algorithm"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Database Management System Lab (ADL402)."},
+            {"role": "user", "content": "What are the objectives of the Database Management System Lab?"},
+            {"role": "assistant", "content": "The objectives of ADL402 are to explore the design and development of the relational model, present SQL and procedural interfaces to SQL comprehensively, and introduce the concepts of transactions and transaction processing."},
+            {"role": "user", "content": "What are the lab outcomes for the Database Management System Lab?"},
+            {"role": "assistant", "content": "At the end of the course, students will be able to design ER/EER diagrams and convert them to relational models for real-world applications, apply DDL, DML, DCL, and TCL commands, write simple and complex queries, use PL/SQL constructs, and demonstrate the concept of concurrent transactions execution and frontend-backend connectivity."},
+            {"role": "user", "content": "Can you provide a suggested list of experiments for the Database Management System Lab?"},
+            {"role": "assistant", "content": "Certainly! Here is a suggested list of experiments for ADL402: 1. Identify the case study and detail statement of the problem. Design an Entity-Relationship (ER)/Extended Entity-Relationship (EER) Model. 2. Mapping ER/EER to Relational schema model. 3. Create a database using Data Definition Language (DDL) and apply integrity constraints for the specified system. 4. Apply DML Commands for the specified system. 5. Perform Simple queries, string manipulation operations, and aggregate functions. 6. Implement various Join operations. 7. Perform Nested and Complex queries. 8. Perform DCL and TCL commands. 9. Implement procedures and functions. 10. Implementation of Views and Triggers. 11. Demonstrate Database connectivity. 12. Implementation and demonstration of Transaction and Concurrency control techniques using locks. 13. Implementing database replication. 14. Working with distributed databases. 15. Implementing data warehousing concepts. 16. Implementing database security measures. 17. Working with XML and JSON data in databases. 18. Implementing database performance tuning strategies. 19. Working with NoSQL databases. 20. Implementing advanced SQL queries and optimization techniques."},
+            {"role": "user", "content": "How is the term work evaluated for the Database Management System Lab?"},
+            {"role": "assistant", "content": "The term work for ADL402 consists of 8 to 12 experiments, and the final certification is based on satisfactory performance in laboratory work and meeting the minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam structure for the Database Management System Lab?"},
+            {"role": "assistant", "content": "The evaluation exam includes a practical exam based on the syllabus of ADL402, covering the concepts learned in both the lab and lecture components of the course."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Internet of Things Lab (ADL403)."},
+            {"role": "user", "content": "What are the objectives of the Internet of Things Lab?"},
+            {"role": "assistant", "content": "The objectives of ADL403 include learning different types of sensors, designing problem solutions using sensors, studying basic concepts of programming/sensors/emulators, designing and implementing mini projects for project-based learning, building and testing mini projects successfully, and improving team building, communication, and management skills."},
+            {"role": "user", "content": "What are the lab outcomes for the Internet of Things Lab?"},
+            {"role": "assistant", "content": "At the end of the course, learners will be able to identify requirements for real-world problems, conduct surveys of available literature, study and enhance software/hardware skills, demonstrate and build projects successfully, report and present findings, and work in teams and manage research studies."},
+            {"role": "user", "content": "Can you provide some suggested experiments for the Internet of Things Lab?"},
+            {"role": "assistant", "content": "Of course! Here are some suggested experiments for ADL403: 1. Identify the Hardware (Motes from different Motes families) & sensor configuration and software requirements for the mini project problem statement. 2. Design your own circuit board using multiple sensors etc. 3. Installation, configure and manage your sensors in such a way so that they can communicate with each other. 4. Work with the operating system, emulator like contiki cooja and do coding for input devices on sensors. 5. Create an interface using Mobile/Web to publish or remotely access the data on the Internet. 6. Developing IoT applications using MQTT protocol. 7. Implementing IoT security measures. 8. Building IoT systems with edge computing capabilities. 9. Integrating IoT devices with cloud platforms. 10. Developing IoT analytics solutions. 11. Implementing machine learning algorithms on IoT data. 12. Deploying and managing IoT infrastructure. 13. Working with industrial IoT protocols and standards. 14. Implementing IoT-based automation systems. 15. Developing IoT solutions for smart cities"},
+            {"role": "user", "content": "How is the term work evaluated for the Internet of Things Lab?"},
+            {"role": "assistant", "content": "The term work for ADL403 consists of 5 Assignment/Activity/Experiments, and the final certification is based on satisfactory performance in laboratory work and meeting the minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam structure for the Internet of Things Lab?"},
+            {"role": "assistant", "content": "The evaluation exam includes a practical exam based on the syllabus of ADL403, covering the concepts learned in both the lab and lecture components of the course."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Python Programming Lab (ADL404)."},
+            {"role": "user", "content": "What are the objectives of the Python Programming Lab?"},
+            {"role": "assistant", "content": "The objectives of ADL404 include learning basics of Python programming, exploring decision making, data structure, and functions in Python, understanding object-oriented programming using Python, and working with web frameworks for developing Python-based applications."},
+            {"role": "user", "content": "What are the lab outcomes for the Python Programming Lab?"},
+            {"role": "assistant", "content": "At the end of the course, students will be able to understand basic concepts in Python, explore contents of files, directories, and text processing with Python, develop programs for data structures using built-in functions in Python, explore Django web framework for developing Python-based web applications, and understand multithreading concepts using Python."},
+            {"role": "user", "content": "Can you provide some suggested experiments for the Python Programming Lab?"},
+            {"role": "assistant", "content": "Sure! Here are some suggested experiments for ADL404: 1. Exploring basics of Python like data types (strings, lists, arrays, dictionaries, sets, tuples) and control statements. 2. Creating functions, classes, and objects using Python. Demonstrate exception handling and inheritance. 3. Exploring files and directories. 4. Creating GUI with Python containing widgets such as labels, textboxes, radio buttons, checkboxes, and custom dialog boxes. 5. Menu-driven program for data structure using built-in functions for linked lists, stacks, and queues. 6. Program to demonstrate CRUD (create, read, update, and delete) operations on a database (SQLite/MySQL) using Python. 7. Creation of a simple socket for basic information exchange between server and client. 8. Creating a web application using Django web framework to demonstrate the functionality of user login and registration (also validating user details using regular expressions). 9. Programs on threading using Python. 10. Exploring basics of NumPy methods. 11. Program to demonstrate the use of NumPy: Array objects. 12. Program to demonstrate data series and data frames using Pandas. 13. Program to send email and read the content of a URL."},
+            {"role": "user", "content": "How is the term work evaluated for the Python Programming Lab?"},
+            {"role": "assistant", "content": "The term work for ADL404 consists of 8 to 12 experiments, and the final certification is based on satisfactory performance in laboratory work and meeting the minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam structure for the Python Programming Lab?"},
+            {"role": "assistant", "content": "The evaluation exam includes a practical exam based on the syllabus of ADL404, covering the concepts learned in both the lab and lecture components of the course."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Mobile App Development Lab (ADS401)."},
+            {"role": "user", "content": "What are the objectives of the Mobile App Development Lab?"},
+            {"role": "assistant", "content": "The objectives of ADS401 include learning advanced concepts of the Flutter framework, developing the app UI by incorporating widgets, layouts, gestures, and animation, and creating a production-ready Flutter app by including files and Firebase backend service."},
+            {"role": "user", "content": "What are the lab outcomes for the Mobile App Development Lab?"},
+            {"role": "assistant", "content": "At the end of the course, students will be able to understand cross-platform mobile application development using the Flutter framework, design and develop interactive Flutter apps using widgets, layouts, gestures, and animation, and analyze and build production-ready Flutter apps by incorporating backend services and deploying on Android/iOS."},
+            {"role": "user", "content": "Can you provide some suggested experiments for the Mobile App Development Lab?"},
+            {"role": "assistant", "content": "Certainly! Here are some suggested experiments for ADS401: 1. Working with files in Flutter. 2. Using Firebase with Flutter. 3. Creating production-ready apps: Testing and deploying Flutter applications on Android/iOS."},
+            {"role": "user", "content": "How is the term work evaluated for the Mobile App Development Lab?"},
+            {"role": "assistant", "content": "The term work for ADS401 consists of 5 assignments/activities/experiments, and the final certification is based on satisfactory performance in laboratory work and meeting the minimum passing marks."},
+            {"role": "user", "content": "What is the evaluation exam structure for the Mobile App Development Lab?"},
+            {"role": "assistant", "content": "The evaluation exam includes a practical exam based on the syllabus of ADS401, covering the concepts learned in both the lab and lecture components of the course."}
+        ]
+    }    
+]
   
