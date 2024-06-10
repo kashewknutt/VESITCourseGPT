@@ -1,4 +1,3 @@
-```markdown
 # Fine-Tuning GPT for College Syllabus Chatbot
 
 This repository contains the code and instructions to fine-tune the GPT model for creating a chatbot that answers questions related to a college syllabus.
@@ -60,4 +59,3 @@ This repository contains the code and instructions to fine-tune the GPT model fo
 ## Contributors
 
 - Rajat Disawal (github.com/kashewknutt)
-```
