@@ -46,6 +46,7 @@ This repository contains the code and instructions to fine-tune the GPT model fo
 - `finetune.py`: Python script to fine-tune the GPT model using the example conversations.
 - `pdfFineTuning.py`: Python script to fine-tune the GPT model using both the conversations and the PDF files.
 - `chatbot.py`: Python script containing the code for the chatbot.
+- `pdfChatbot.py`: Python script containing the code for the chatbot.
 
 ## Usage
 
@@ -66,7 +67,7 @@ This repository contains the code and instructions to fine-tune the GPT model fo
 4. Run the `jsonTojsonl.py` script to convert JSON files to JSONL format.
 5. Run the `pdfFineTuning.py` script to fine-tune the model using both PDFs and JSON conversations.
 6. Monitor the training process and save the fine-tuned model once training is complete.
-7. Use the `chatbot.py` script to interact with the trained model and ask questions related to the college syllabus.
+7. Use the `pdfChatbot.py` script to interact with the trained model and ask questions related to the college syllabus.
 
 ## Notes
 
