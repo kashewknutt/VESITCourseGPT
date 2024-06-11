@@ -1,5 +1,6 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
+from collections import defaultdict
 
 # Load the fine-tuned models and tokenizer
 tokenizer_combined = AutoTokenizer.from_pretrained("pdf-tuned-model-combined")
@@ -14,9 +15,18 @@ def chatbot_prompt():
 
 def generate_response(input_text, tokenizer, model):
     input_ids = tokenizer.encode(input_text, return_tensors="pt")
-    output = model.generate(input_ids, max_length=50, num_return_sequences=1, temperature=0.9)
-    response = tokenizer.decode(output[0], skip_special_tokens=True)
-    return response
+    output = model.generate(input_ids, max_length=50, num_return_sequences=3, temperature=0.9, do_sample=True)
+    responses = [tokenizer.decode(out, skip_special_tokens=True) for out in output]
+    return responses
+
+def post_process_responses(responses):
+    response_count = defaultdict(int)
+    filtered_responses = []
+    for response in responses:
+        if response not in response_count:
+            filtered_responses.append(response)
+        response_count[response] += 1
+    return filtered_responses
 
 # Main chat loop
 while True:
@@ -28,13 +38,15 @@ while True:
     else:
         # Choose the appropriate model based on user input
         if "pdf" in user_input.lower():
-            print("Pdf Tokenizer")
             tokenizer = tokenizer_pdf
             model = model_pdf
         else:
-            print("Conversation Tokenizer")
             tokenizer = tokenizer_combined
             model = model_combined
 
-        response = generate_response(user_input, tokenizer, model)
-        print("Chatbot:", response)
+        responses = generate_response(user_input, tokenizer, model)
+        filtered_responses = post_process_responses(responses)
+
+        print("Chatbot:")
+        for i, response in enumerate(filtered_responses, start=1):
+            print(f"{i}. {response}")

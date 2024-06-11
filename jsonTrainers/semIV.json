@@ -1,6 +1,63 @@
 [
     {
         "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for Fourth Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "What are the courses offered in Semester IV?"},
+            {"role": "assistant", "content": "In Semester IV, also known as the Fourth Semester, students undertake advanced courses to deepen their understanding of key concepts in Artificial Intelligence and Data Science Engineering. The courses offered in this semester include Engineering Mathematics-IV, Analysis of Algorithm, Database Management System, Theory of Computer Science, and Internet of Things."},
+            {"role": "user", "content": "Can you provide details about the examination scheme for the course ADC405?"},
+            {"role": "assistant", "content": "For ADC405, also known as Internet of Things, the examination scheme is designed to assess students' comprehensive understanding of the subject matter. It includes 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end semester exam."},
+            {"role": "user", "content": "How many credits are assigned for Semester IV?"},
+            {"role": "assistant", "content": "The total credit assigned for Semester IV, or the Fourth Semester, is 23."},
+            {"role": "user", "content": "Is there a lab for ADL403, Internet of Things Lab?"},
+            {"role": "assistant", "content": "Yes, there is a dedicated lab component for ADL403, the Internet of Things Lab, where students have the opportunity to apply theoretical concepts in practical scenarios, further enhancing their learning experience."},
+            {"role": "user", "content": "What is the teaching scheme for the course ADL404?"},
+            {"role": "assistant", "content": "ADL404, Python Programming Lab, features an engaging teaching scheme that includes 2 practical contact hours and 2 tutorial contact hours, providing students with ample opportunities for hands-on learning and interactive sessions."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome! If you have any more questions or need further assistance, feel free to ask."},
+            {"role": "user", "content": "What are the objectives of ADC402?"},
+            {"role": "assistant", "content": "The objectives of ADC402, or Analysis of Algorithms, are multifaceted. They include providing mathematical approaches for analyzing algorithms, understanding and solving problems using various algorithmic approaches, and analyzing algorithms using different methods."},
+            {"role": "user", "content": "How is the term work evaluated for ADC402?"},
+            {"role": "assistant", "content": "Term work for ADC402 involves assessments through tutorials, assignments, viva, and mini projects based on the syllabus, providing students with opportunities to demonstrate their understanding and practical skills."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC402?"},
+            {"role": "assistant", "content": "Internal assessment for ADC402 includes one mid-term test of 20 marks and continuous assessment of 20 marks, encompassing various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC402?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC402 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students are required to solve any three out of the five questions, testing their comprehensive understanding and application of the course material."},
+            {"role": "user", "content": "Can you provide some useful links related to ADC402?"},
+            {"role": "assistant", "content": "Certainly! Here are some useful links related to ADC402: 1. [NPTEL Course](https://nptel.ac.in/courses/106/106/106106131/) 2. [SWAYAM Course](https://swayam.gov.in/nd1_noc19_cs47/preview) 3. [Coursera Specialization](https://www.coursera.org/specializations/algorithms) 4. [MOOC List](https://www.mooc-list.com/tags/algorithms)"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "Welcome to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "Could you please provide details about the courses offered in Semester IV?"},
+            {"role": "assistant", "content": "Absolutely! Semester IV offers a diverse range of courses to deepen your understanding of key concepts in AI and Data Science Engineering. The courses offered include Engineering Mathematics-IV, Analysis of Algorithm, Database Management System, Theory of Computer Science, and Internet of Things. Each course is meticulously designed to equip you with essential knowledge and skills vital for your academic and professional growth."},
+            {"role": "user", "content": "I'm curious about the examination scheme for the course ADC405. Can you provide some insights?"},
+            {"role": "assistant", "content": "Certainly! For ADC405, Internet of Things, the examination scheme is meticulously crafted to assess your understanding and proficiency in the subject matter. The evaluation comprises 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end-semester exam. This comprehensive evaluation structure ensures a holistic assessment of your learning outcomes, covering both theoretical knowledge and practical applications."},
+            {"role": "user", "content": "How many credits are assigned for Semester IV?"},
+            {"role": "assistant", "content": "The total credit assigned for Semester IV is 23. This allocation reflects the academic rigor and depth of the courses offered in this semester. Each credit is a testament to the dedication and effort required to excel in your academic pursuits and lay a strong foundation for your future endeavors."},
+            {"role": "user", "content": "Is there a lab for ADL403, Internet of Things Lab?"},
+            {"role": "assistant", "content": "Yes, indeed! ADL403, Internet of Things Lab, offers a hands-on learning experience where you'll delve into the practical aspects of IoT technologies. This lab provides a dynamic environment for experimentation and innovation, allowing you to apply theoretical concepts to real-world scenarios. Through a series of guided experiments and projects, you'll gain valuable insights into the implementation and deployment of IoT solutions."},
+            {"role": "user", "content": "What is the teaching scheme for the course ADL404?"},
+            {"role": "assistant", "content": "ADL404, Python Programming Lab, adopts a comprehensive teaching scheme aimed at enhancing your proficiency in Python programming and its applications. The teaching methodology includes 2 practical contact hours and 2 tutorial contact hours per week. This balanced approach combines hands-on practice with theoretical concepts, ensuring a holistic learning experience that fosters both practical skills and conceptual understanding."},
+            {"role": "user", "content": "Thank you for the detailed information!"},
+            {"role": "assistant", "content": "You're most welcome! If you have any further questions or need assistance with anything else, feel free to ask. I'm here to help you navigate through your academic journey with confidence and clarity."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "Welcome to the Analysis of Algorithms course (ADC402)."},
+            {"role": "user", "content": "What are the objectives of ADC402?"},
+            {"role": "assistant", "content": "The objectives of ADC402 are multifaceted, aiming to equip you with a comprehensive understanding of algorithmic principles and their applications. Firstly, the course focuses on providing mathematical approaches for analyzing algorithms, enabling you to discern their efficiency and effectiveness. Secondly, it emphasizes problem-solving methodologies, empowering you to tackle real-world challenges using algorithmic techniques. Lastly, it delves into the intricacies of algorithm analysis, allowing you to evaluate and optimize algorithms for various computational tasks."},
+            {"role": "user", "content": "How is the term work evaluated for ADC402?"},
+            {"role": "assistant", "content": "Term work for ADC402 is structured to assess your progress and proficiency throughout the duration of the course. It encompasses a variety of assessments, including tutorials, assignments, viva, and mini projects, all of which are aligned with the syllabus objectives. This comprehensive evaluation ensures that you have ample opportunities to demonstrate your understanding and application of algorithmic concepts in practical scenarios."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC402?"},
+            {"role": "assistant", "content": "Internal assessment for ADC402 is designed to gauge your comprehension and mastery of course material through continuous evaluation. It comprises one mid-term test, accounting for 20 marks, and continuous assessment, also worth 20 marks. The continuous assessment component encompasses a diverse range of activities, including certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments, ensuring a comprehensive evaluation of your progress."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC402?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC402 is meticulously crafted to assess your theoretical knowledge and analytical skills in algorithmic analysis. It consists of a question paper worth 60 marks, comprising five questions, each carrying equal weightage of 20 marks. You're required to solve any three out of the five questions, allowing you to demonstrate your proficiency across a diverse range of algorithmic topics."}
+        ]
+    },    
+    {
+        "messages": [
             {"role": "system", "content": "This information pertains to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
             {"role": "user", "content": "What are the courses offered in Semester IV?"},
             {"role": "assistant", "content": "In Semester IV, the following courses are offered: Engineering Mathematics-IV, Analysis of Algorithm, Database Management System, Theory of Computer Science, Internet of Things."},
