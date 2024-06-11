@@ -68,18 +68,21 @@ pdf_data_tokenized = process_pdf_data('pdf_data.jsonl')
 train_pdf, eval_pdf = split_dataset(pdf_data_tokenized)
 
 # Define training arguments for combined data
+# Adjust learning rate and add a scheduler if needed
 training_args_combined = TrainingArguments(
     output_dir='./results',
     overwrite_output_dir=True,
-    num_train_epochs=10,  # Set to at least 10 epochs
-    per_device_train_batch_size=4,
-    evaluation_strategy="epoch",  # Evaluate at the end of each epoch
-    save_strategy="epoch",  # Save model at the end of each epoch
-    weight_decay=0.01,  # Adding weight decay
+    num_train_epochs=15,
+    per_device_train_batch_size=8,
+    evaluation_strategy="epoch",
+    save_strategy="epoch",
+    weight_decay=0.01,  # Regularization to prevent overfitting
     logging_dir='./logs',
     logging_steps=500,
     load_best_model_at_end=True,
+    learning_rate=5e-5,  # You can start with a lower learning rate
 )
+
 
 # Trainer for combined data
 trainer_combined = Trainer(
@@ -102,15 +105,17 @@ print("Conversation tuning saved to pdf-tuned-model-combined")
 training_args_pdf = TrainingArguments(
     output_dir='./results_pdf',
     overwrite_output_dir=True,
-    num_train_epochs=10,  # Set to at least 10 epochs
-    per_device_train_batch_size=4,
-    evaluation_strategy="epoch",  # Evaluate at the end of each epoch
-    save_strategy="epoch",  # Save model at the end of each epoch
-    weight_decay=0.01,  # Adding weight decay
+    num_train_epochs=15,
+    per_device_train_batch_size=8,
+    evaluation_strategy="epoch",
+    save_strategy="epoch",
+    weight_decay=0.01,  # Regularization to prevent overfitting
     logging_dir='./logs_pdf',
     logging_steps=500,
     load_best_model_at_end=True,
+    learning_rate=5e-5,  # You can start with a lower learning rate
 )
+
 
 # Trainer for PDF data
 trainer_pdf = Trainer(
