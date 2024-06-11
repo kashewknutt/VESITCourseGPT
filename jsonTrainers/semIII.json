@@ -1,6 +1,37 @@
 [
     {
         "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for Second Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "What are the key topics covered in 'Engineering Mathematics III' in Semester III?"},
+            {"role": "assistant", "content": "The key topics covered in 'Engineering Mathematics III' include linear algebra, complex variables, and partial differential equations."},
+            {"role": "user", "content": "Can you list the main learning objectives of 'Data Structures' for Semester III?"},
+            {"role": "assistant", "content": "The main learning objectives of 'Data Structures' are understanding various data structures like arrays, linked lists, stacks, queues, and trees, and applying these structures to solve computational problems."},
+            {"role": "user", "content": "How is 'Discrete Structures and Graph Theory' taught in terms of theory and practical hours in Semester III?"},
+            {"role": "assistant", "content": "'Discrete Structures and Graph Theory' includes 3 hours of theory and 1 hour of tutorial per week."},
+            {"role": "user", "content": "What is the schedule for practical sessions in 'Digital Logic & Computer Architecture'?"},
+            {"role": "assistant", "content": "'Digital Logic & Computer Architecture' has 2 hours of lab sessions each week dedicated to hands-on learning and practical applications."},
+            {"role": "user", "content": "How is the internal assessment for 'Computer Networks and Operating Systems' structured in Semester III?"},
+            {"role": "assistant", "content": "The internal assessment for 'Computer Networks and Operating Systems' includes assignments, quizzes, and mid-term exams."},
+            {"role": "user", "content": "What types of exams are included for 'Data Structures' in the evaluation scheme?"},
+            {"role": "assistant", "content": "'Data Structures' includes written exams, practical exams, and continuous assessment based on lab performance and assignments."},
+            {"role": "user", "content": "What skills will students develop in the 'Data Structures' lab in Semester III?"},
+            {"role": "assistant", "content": "In the 'Data Structures' lab, students will develop skills in implementing and analyzing data structures, coding algorithms, and problem-solving using programming languages."},
+            {"role": "user", "content": "Are there any project-based assessments in the 'Digital Logic & Computer Architecture' lab?"},
+            {"role": "assistant", "content": "Yes, the 'Digital Logic & Computer Architecture' lab includes project-based assessments where students design and implement digital circuits."},
+            {"role": "user", "content": "How is the total of 23 credits for Semester III distributed among the different courses?"},
+            {"role": "assistant", "content": "The 23 credits in Semester III are distributed as follows: core courses (18 credits), labs (4 credits), and tutorials (1 credit)."},
+            {"role": "user", "content": "Does the credit distribution reflect the workload and learning outcomes for each course in Semester III?"},
+            {"role": "assistant", "content": "Yes, the credit distribution is designed to align with the workload and the intended learning outcomes for each course in Semester III."},
+            {"role": "user", "content": "What resources or textbooks are recommended for 'Computer Networks and Operating Systems' in Semester III?"},
+            {"role": "assistant", "content": "Recommended resources for 'Computer Networks and Operating Systems' include 'Computer Networking: A Top-Down Approach' by James Kurose and 'Operating System Concepts' by Silberschatz and Galvin."},
+            {"role": "user", "content": "Are there any interdisciplinary projects included in the Semester III syllabus?"},
+            {"role": "assistant", "content": "Yes, interdisciplinary projects that integrate concepts from multiple courses like 'Data Structures' and 'Digital Logic & Computer Architecture' are encouraged in Semester III."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },    
+    {
+        "messages": [
         {"role": "system", "content": "This information pertains to the Scheme for Autonomous Program (With Effect from 2023-2024)."},
         {"role": "user", "content": "What is the examination scheme for the course ADC303?"},
         {"role": "assistant", "content": "For ADC303, Data Structure, the examination scheme includes 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end semester exam."},

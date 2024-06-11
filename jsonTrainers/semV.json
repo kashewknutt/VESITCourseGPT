@@ -1,6 +1,37 @@
 [
     {
         "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for Third Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "What are the primary focus areas of the 'Cloud Computing' course in Semester V?"},
+            {"role": "assistant", "content": "The 'Cloud Computing' course in Semester V focuses on cloud infrastructure, service models, virtualization, and cloud security."},
+            {"role": "user", "content": "Can you provide an overview of the topics covered in 'Web Development'?"},
+            {"role": "assistant", "content": "'Web Development' covers topics such as HTML, CSS, JavaScript, front-end frameworks, and back-end development with databases."},
+            {"role": "user", "content": "How is the 'Artificial Intelligence' course structured in terms of lectures and lab sessions?"},
+            {"role": "assistant", "content": "The 'Artificial Intelligence' course includes 3 hours of theory lectures and 3 hours of practical lab sessions each week."},
+            {"role": "user", "content": "What is the teaching scheme for the 'Data Warehousing & Mining' course in Semester V?"},
+            {"role": "assistant", "content": "'Data Warehousing & Mining' has 3 theory contact hours and 3 practical contact hours per week."},
+            {"role": "user", "content": "How is the term work evaluated in the 'Cloud Computing' course?"},
+            {"role": "assistant", "content": "Term work in 'Cloud Computing' is evaluated based on assignments, mini-projects, and practical performance."},
+            {"role": "user", "content": "What are the components of the internal assessment for 'Web Development'?"},
+            {"role": "assistant", "content": "Internal assessment for 'Web Development' includes coding assignments, project work, and periodic quizzes."},
+            {"role": "user", "content": "What skills will students gain from the 'Artificial Intelligence' lab sessions in Semester V?"},
+            {"role": "assistant", "content": "In the 'Artificial Intelligence' lab sessions, students will gain hands-on experience with AI algorithms, machine learning models, and real-world problem solving."},
+            {"role": "user", "content": "Are there any collaborative projects included in the 'Data Warehousing & Mining' course?"},
+            {"role": "assistant", "content": "Yes, 'Data Warehousing & Mining' includes collaborative projects where students work in teams to design and implement data mining solutions."},
+            {"role": "user", "content": "How is the total of 22 credits for Semester V distributed among the courses?"},
+            {"role": "assistant", "content": "The 22 credits in Semester V are distributed among core courses (15 credits), lab sessions (6 credits), and one optional course (1 credit)."},
+            {"role": "user", "content": "Does the credit distribution for Semester V reflect the importance of practical skills?"},
+            {"role": "assistant", "content": "Yes, the credit distribution in Semester V emphasizes practical skills with significant credits allocated to lab sessions and project work."},
+            {"role": "user", "content": "What are the recommended resources for studying 'Cloud Computing' in Semester V?"},
+            {"role": "assistant", "content": "Recommended resources for 'Cloud Computing' include 'Cloud Computing: Concepts, Technology & Architecture' by Thomas Erl and 'Mastering Cloud Computing' by Rajkumar Buyya."},
+            {"role": "user", "content": "Are there any opportunities for industry collaboration in the 'Web Development' course?"},
+            {"role": "assistant", "content": "Yes, the 'Web Development' course often includes industry collaboration opportunities, where students can work on real-world web projects with external partners."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },    
+    {
+        "messages": [
             {"role": "system", "content": "This information pertains to the Cloud Computing course (ADC501) in Semester V."},
             {"role": "user", "content": "What are the objectives of ADC501?"},
             {"role": "assistant", "content": "The objectives of ADC501, Cloud Computing, include understanding cloud computing techniques, virtualization levels, cloud service providers, cloud implementation, and security risks."},

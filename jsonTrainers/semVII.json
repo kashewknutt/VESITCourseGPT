@@ -1,6 +1,37 @@
 [
     {
         "messages": [
+            {"role": "system", "content": "This information pertains to the Semester VII program structure for Fourth Year AI&DS."},
+            {"role": "user", "content": "What are the major topics covered in the 'Deep Learning' course in Semester VII?"},
+            {"role": "assistant", "content": "The 'Deep Learning' course covers major topics such as neural networks, convolutional neural networks (CNNs), recurrent neural networks (RNNs), and generative adversarial networks (GANs)."},
+            {"role": "user", "content": "Can you provide details on the key areas of study in 'Big Data Analytics'?"},
+            {"role": "assistant", "content": "'Big Data Analytics' focuses on big data technologies, data processing frameworks like Hadoop and Spark, and techniques for analyzing large datasets."},
+            {"role": "user", "content": "How is the 'Deep Learning' course structured in terms of theory and practicals?"},
+            {"role": "assistant", "content": "'Deep Learning' includes 3 hours of theory lectures and 3 hours of practical lab sessions each week, emphasizing both conceptual understanding and hands-on practice."},
+            {"role": "user", "content": "What is the teaching scheme for 'Big Data Analytics' in Semester VII?"},
+            {"role": "assistant", "content": "'Big Data Analytics' has a teaching scheme of 3 theory contact hours and 3 practical contact hours per week."},
+            {"role": "user", "content": "How is the term work for 'Deep Learning' evaluated?"},
+            {"role": "assistant", "content": "Term work for 'Deep Learning' is evaluated based on lab performance, project submissions, and periodic assessments."},
+            {"role": "user", "content": "What are the components of internal assessment for 'Big Data Analytics'?"},
+            {"role": "assistant", "content": "Internal assessment for 'Big Data Analytics' includes assignments, quizzes, lab work, and mid-term exams."},
+            {"role": "user", "content": "What skills will students gain in the 'Big Data Analytics' lab sessions?"},
+            {"role": "assistant", "content": "In the 'Big Data Analytics' lab, students will learn to use big data tools, perform data processing, and analyze large-scale data using frameworks like Hadoop and Spark."},
+            {"role": "user", "content": "Are there any interdisciplinary projects included in the 'Deep Learning' course?"},
+            {"role": "assistant", "content": "Yes, the 'Deep Learning' course includes interdisciplinary projects where students apply deep learning techniques to various domains like healthcare, finance, and robotics."},
+            {"role": "user", "content": "How are the 22 credits for Semester VII distributed across the different courses?"},
+            {"role": "assistant", "content": "The 22 credits in Semester VII are distributed among core courses (15 credits), lab sessions (6 credits), and one optional course (1 credit)."},
+            {"role": "user", "content": "Does the credit allocation in Semester VII reflect the emphasis on emerging technologies?"},
+            {"role": "assistant", "content": "Yes, the credit allocation in Semester VII reflects a strong emphasis on emerging technologies like deep learning and big data analytics."},
+            {"role": "user", "content": "What are the recommended textbooks or resources for 'Deep Learning' in Semester VII?"},
+            {"role": "assistant", "content": "Recommended textbooks for 'Deep Learning' include 'Deep Learning' by Ian Goodfellow, Yoshua Bengio, and Aaron Courville, and 'Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow' by Aurélien Géron."},
+            {"role": "user", "content": "Are there any guest lectures or industry interactions included in the 'Big Data Analytics' course?"},
+            {"role": "assistant", "content": "Yes, the 'Big Data Analytics' course often includes guest lectures from industry experts and opportunities for students to interact with professionals in the field."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },    
+    {
+        "messages": [
             {"role": "system", "content": "This information pertains to the Course Structure for ADC701: Deep Learning."},
             {"role": "user", "content": "What are the prerequisites for ADC701?"},
             {"role": "assistant", "content": "The prerequisites for ADC701 include basic mathematics and statistical concepts, linear algebra, and machine learning."},

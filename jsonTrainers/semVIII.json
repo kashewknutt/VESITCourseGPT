@@ -1,6 +1,37 @@
 [
     {
         "messages": [
+            {"role": "system", "content": "This information pertains to the Semester VIII program structure for Fourth Year AI&DS."},
+            {"role": "user", "content": "What are the key topics explored in the 'Advanced Artificial Intelligence' course in Semester VIII?"},
+            {"role": "assistant", "content": "The 'Advanced Artificial Intelligence' course explores key topics such as advanced machine learning techniques, reinforcement learning, and AI applications in various domains."},
+            {"role": "user", "content": "Can you provide details on the core areas of study in 'Quantum Computing'?"},
+            {"role": "assistant", "content": "'Quantum Computing' covers core areas such as quantum algorithms, quantum circuits, and the principles of quantum mechanics applied to computing."},
+            {"role": "user", "content": "How is the 'Advanced Artificial Intelligence' course structured in terms of lectures and practicals?"},
+            {"role": "assistant", "content": "'Advanced Artificial Intelligence' includes 3 hours of theory lectures and 3 hours of practical lab sessions each week."},
+            {"role": "user", "content": "What is the teaching scheme for 'Quantum Computing' in Semester VIII?"},
+            {"role": "assistant", "content": "'Quantum Computing' has a teaching scheme of 3 theory contact hours and 2 practical contact hours per week."},
+            {"role": "user", "content": "How is the term work for 'Advanced Artificial Intelligence' evaluated?"},
+            {"role": "assistant", "content": "Term work for 'Advanced Artificial Intelligence' is evaluated based on practical assignments, project work, and periodic tests."},
+            {"role": "user", "content": "What are the components of internal assessment for 'Quantum Computing'?"},
+            {"role": "assistant", "content": "Internal assessment for 'Quantum Computing' includes quizzes, assignments, and practical exams."},
+            {"role": "user", "content": "What skills will students acquire in the 'Advanced Artificial Intelligence' lab sessions?"},
+            {"role": "assistant", "content": "In the 'Advanced Artificial Intelligence' lab sessions, students will develop skills in implementing advanced AI algorithms, working with AI frameworks, and solving complex AI problems."},
+            {"role": "user", "content": "Are there any research projects included in the 'Advanced Artificial Intelligence' course?"},
+            {"role": "assistant", "content": "Yes, the 'Advanced Artificial Intelligence' course includes research projects where students investigate and implement cutting-edge AI techniques."},
+            {"role": "user", "content": "How are the 21 credits for Semester VIII distributed among the various courses?"},
+            {"role": "assistant", "content": "The 21 credits in Semester VIII are distributed among core courses (15 credits), lab sessions (5 credits), and one optional course (1 credit)."},
+            {"role": "user", "content": "Does the credit allocation in Semester VIII emphasize research and development?"},
+            {"role": "assistant", "content": "Yes, the credit allocation in Semester VIII places a strong emphasis on research and development, particularly in advanced AI and emerging technologies."},
+            {"role": "user", "content": "What are the recommended textbooks or resources for studying 'Quantum Computing'?"},
+            {"role": "assistant", "content": "Recommended textbooks for 'Quantum Computing' include 'Quantum Computation and Quantum Information' by Michael Nielsen and Isaac Chuang and 'An Introduction to Quantum Computing' by Phillip Kaye, Raymond Laflamme, and Michele Mosca."},
+            {"role": "user", "content": "Are there opportunities for interdisciplinary collaboration in the 'Advanced Artificial Intelligence' course?"},
+            {"role": "assistant", "content": "Yes, 'Advanced Artificial Intelligence' offers opportunities for interdisciplinary collaboration, allowing students to apply AI techniques across various fields such as healthcare, finance, and robotics."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },    
+    {
+        "messages": [
             {"role": "system", "content": "This information pertains to the Course Structure for ADSC801: Advanced Artificial Intelligence."},
             {"role": "user", "content": "What are the objectives of ADSC801?"},
             {"role": "assistant", "content": "The objectives of ADSC801 are: 1. To relate to the basic concepts of Probabilistic Models. 2. To understand the scope of Generative Networks in AI. 3. To recognize various components of Autoencoder Architecture and Training process. 4. To learn the fundamentals of Transfer Learning. 5. To provide students with a comprehensive understanding of ensemble methods and their applications. 6. To explore the nascent applications of AI."},

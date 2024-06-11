@@ -1,6 +1,37 @@
 [
     {
         "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for Third Year Artificial Intelligence and Data Science Engineering."},
+            {"role": "user", "content": "What are the advanced topics covered in the 'Data Analytics and Visualization' course in Semester VI?"},
+            {"role": "assistant", "content": "The 'Data Analytics and Visualization' course covers advanced topics such as predictive analytics, big data visualization, and interactive data dashboards."},
+            {"role": "user", "content": "Can you provide an overview of the key concepts in 'Cryptography and System Security'?"},
+            {"role": "assistant", "content": "'Cryptography and System Security' focuses on encryption techniques, secure communication protocols, and system vulnerability assessment."},
+            {"role": "user", "content": "How is the 'Software Engineering and Project Management' course structured in Semester VI?"},
+            {"role": "assistant", "content": "'Software Engineering and Project Management' includes 3 hours of theory and 2 hours of practical sessions each week, focusing on software development lifecycle and project management principles."},
+            {"role": "user", "content": "What is the teaching scheme for the 'Machine Learning' course in Semester VI?"},
+            {"role": "assistant", "content": "'Machine Learning' has a teaching scheme of 3 theory contact hours and 3 practical contact hours each week."},
+            {"role": "user", "content": "How is the practical work assessed in the 'Data Analytics and Visualization' lab?"},
+            {"role": "assistant", "content": "Practical work in the 'Data Analytics and Visualization' lab is assessed based on project work, data analysis reports, and practical exams."},
+            {"role": "user", "content": "What are the components of the internal assessment for 'Cryptography and System Security'?"},
+            {"role": "assistant", "content": "Internal assessment for 'Cryptography and System Security' includes assignments, quizzes, and lab work evaluations."},
+            {"role": "user", "content": "What skills will students acquire in the 'Machine Learning' lab sessions in Semester VI?"},
+            {"role": "assistant", "content": "In the 'Machine Learning' lab sessions, students will learn to implement machine learning algorithms, tune models, and work with real-world datasets."},
+            {"role": "user", "content": "Are there any project-based components in the 'Software Engineering and Project Management' course?"},
+            {"role": "assistant", "content": "Yes, the course includes project-based components where students manage software development projects from planning to execution."},
+            {"role": "user", "content": "How is the total of 23 credits for Semester VI allocated among the different courses?"},
+            {"role": "assistant", "content": "The 23 credits in Semester VI are allocated to core courses (16 credits), lab sessions (6 credits), and one optional course (1 credit)."},
+            {"role": "user", "content": "Does the credit distribution for Semester VI focus more on theoretical or practical learning?"},
+            {"role": "assistant", "content": "The credit distribution for Semester VI balances both theoretical and practical learning, with substantial credits for practical lab sessions and project work."},
+            {"role": "user", "content": "What textbooks or resources are recommended for 'Data Analytics and Visualization'?"},
+            {"role": "assistant", "content": "Recommended textbooks for 'Data Analytics and Visualization' include 'Python for Data Analysis' by Wes McKinney and 'The Visual Display of Quantitative Information' by Edward Tufte."},
+            {"role": "user", "content": "Are there any collaborative opportunities in the 'Cryptography and System Security' course?"},
+            {"role": "assistant", "content": "Yes, the course often includes collaborative projects and case studies where students work in teams to analyze and secure systems."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },    
+    {
+        "messages": [
             {"role": "system", "content": "This information is about the Data Analytics and Visualization course (ADC601) in Semester VI."},
             {"role": "user", "content": "What are the objectives of ADC601?"},
             {"role": "assistant", "content": "The objectives of ADC601 include introducing the data analytics lifecycle, developing mathematical concepts for advanced regression, understanding data modeling in time series, creating awareness about text analytics, and providing overviews of data analytics and visualization with R and Python."},
