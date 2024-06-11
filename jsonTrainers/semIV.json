@@ -1,6 +1,51 @@
 [
     {
         "messages": [
+            {"role": "system", "content": "This information pertains to the Program Structure for the Fourth Semester of the Artificial Intelligence and Data Science Engineering program."},
+            {"role": "user", "content": "What are the courses offered in the fourth semester of the AI and Data Science program?"},
+            {"role": "assistant", "content": "In the fourth semester of the Artificial Intelligence and Data Science Engineering program, the following courses are offered:\n\n1. **Engineering Mathematics-IV**: This course extends the mathematical concepts learned in previous semesters, focusing on advanced topics such as differential equations, numerical methods, and statistics, which are essential for data analysis and machine learning.\n\n2. **Analysis of Algorithm**: This subject delves into the mathematical analysis of algorithms, covering topics such as algorithm design paradigms, algorithmic techniques, complexity analysis, and algorithmic problem-solving strategies.\n\n3. **Database Management System**: This course explores the principles and practices of database management systems, including data modeling, normalization, query languages, transaction management, and database administration.\n\n4. **Theory of Computer Science**: This subject introduces theoretical concepts underlying computer science, such as formal languages, automata theory, computability, and complexity theory.\n\n5. **Internet of Things**: This course explores the concepts, architectures, and applications of the Internet of Things, covering topics such as IoT devices, communication protocols, data analytics, and IoT applications."},
+            {"role": "user", "content": "Can you provide details about the examination scheme for the course 'Internet of Things'?"},
+            {"role": "assistant", "content": "For the course 'Internet of Things', the examination scheme includes 20 marks for internal assessment, 20 marks for term work, and 60 marks for the end semester exam."},
+            {"role": "user", "content": "How many credits are assigned for the fourth semester?"},
+            {"role": "assistant", "content": "The total credit assigned for the fourth semester is 23."},
+            {"role": "user", "content": "Is there a lab for 'Internet of Things'?"},
+            {"role": "assistant", "content": "Yes, there is a lab for 'Internet of Things'."},
+            {"role": "user", "content": "What is the teaching scheme for the course 'Python Programming Lab'?"},
+            {"role": "assistant", "content": "The teaching scheme for 'Python Programming Lab' includes 2 practical contact hours and 2 tutorial contact hours per week."},
+            {"role": "user", "content": "Thank you."},
+            {"role": "assistant", "content": "You're welcome!"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Analysis of Algorithms course (ADC402)."},
+            {"role": "user", "content": "What are the objectives of ADC402?"},
+            {"role": "assistant", "content": "The objectives of ADC402 include providing mathematical approaches for analyzing algorithms, understanding and solving problems using various algorithmic approaches, and analyzing algorithms using different methods."},
+            {"role": "user", "content": "How is the term work evaluated for ADC402?"},
+            {"role": "assistant", "content": "Term work for ADC402 involves assessments through tutorials, assignments, viva, and mini projects based on the syllabus."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC402?"},
+            {"role": "assistant", "content": "Internal assessment includes one mid-term test of 20 marks and continuous assessment of 20 marks. Continuous assessment involves various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC402?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC402 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students need to solve any three out of the five questions."},
+            {"role": "user", "content": "Can you provide some useful links related to ADC402?"},
+            {"role": "assistant", "content": "Certainly! Here are some useful links related to ADC402: 1. [NPTEL Course](https://nptel.ac.in/courses/106/106/106106131/) 2. [SWAYAM Course](https://swayam.gov.in/nd1_noc19_cs47/preview) 3. [Coursera Specialization](https://www.coursera.org/specializations/algorithms) 4. [MOOC List](https://www.mooc-list.com/tags/algorithms)"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "This information pertains to the Engineering Mathematics-IV course (ADC401)."},
+            {"role": "user", "content": "What are the objectives of ADC401?"},
+            {"role": "assistant", "content": "The objectives of ADC401 include building a strong foundation in mathematics, providing students with fundamentals necessary to solve complex engineering problems, and preparing students to work as part of teams on multidisciplinary projects."},
+            {"role": "user", "content": "How is the term work evaluated for ADC401?"},
+            {"role": "assistant", "content": "Term work for ADC401 consists of assessments through tutorials, assignments, viva, and mini projects based on the syllabus, with a total of 25 marks."},
+            {"role": "user", "content": "What is the internal assessment structure for ADC401?"},
+            {"role": "assistant", "content": "Internal assessment for ADC401 includes one mid-term test of 20 marks and continuous assessment of 20 marks. Continuous assessment involves various rubrics such as certificate courses, content beyond syllabus presentation, proof of concept, mini projects, extra experiments, competitive programming events, group discussions, and gate-based assignments."},
+            {"role": "user", "content": "What is the structure of the end-semester theory examination for ADC401?"},
+            {"role": "assistant", "content": "The end-semester theory examination for ADC401 consists of a question paper of 60 marks with five questions, each carrying equal weightage of 20 marks. Students need to solve any three out of the five questions."}
+        ]
+    },
+    {
+        "messages": [
             {"role": "system", "content": "This information pertains to the Program Structure for Fourth Year Artificial Intelligence and Data Science Engineering."},
             {"role": "user", "content": "What are the courses offered in Semester IV?"},
             {"role": "assistant", "content": "In Semester IV, also known as the Fourth Semester, students undertake advanced courses to deepen their understanding of key concepts in Artificial Intelligence and Data Science Engineering. The courses offered in this semester include Engineering Mathematics-IV, Analysis of Algorithm, Database Management System, Theory of Computer Science, and Internet of Things."},
