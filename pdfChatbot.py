@@ -14,8 +14,10 @@ def chatbot_prompt():
     print("Please type your question or type 'exit' to quit.")
 
 def generate_response(input_text, tokenizer, model):
+    tokenizer.pad_token_id = tokenizer.eos_token_id
     input_ids = tokenizer.encode(input_text, return_tensors="pt")
-    output = model.generate(input_ids, max_length=50, num_return_sequences=3, temperature=0.9, do_sample=True)
+    attention_mask = input_ids.ne(tokenizer.pad_token_id).long()
+    output = model.generate(input_ids, attention_mask=attention_mask, max_length=50, num_return_sequences=3, temperature=0.7, do_sample=True)
     responses = [tokenizer.decode(out, skip_special_tokens=True) for out in output]
     return responses
 

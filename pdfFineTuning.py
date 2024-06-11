@@ -1,6 +1,6 @@
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, Trainer, TrainingArguments
-from datasets import load_dataset
+from datasets import load_dataset, DatasetDict
 
 # Initialize the tokenizer and model
 model_name = "gpt2"  # Replace with "gpt-neo-125M" or another model if desired
@@ -16,7 +16,7 @@ def process_combined_data(jsonl_file):
     dataset = load_dataset('json', data_files=jsonl_file, split='train')
 
     def format_conversation(conversation):
-        formatted_conversation = ""
+        formatted_conversation = "" 
         for message in conversation:
             role = message['role']
             content = message['content']
@@ -54,50 +54,77 @@ def process_pdf_data(jsonl_file):
 
     return tokenized_dataset
 
-# Tokenize and fine-tune combined data
+# Split datasets into train and validation sets (80-20 split)
+def split_dataset(dataset, split_ratio=0.2):
+    dataset = dataset.train_test_split(test_size=split_ratio)
+    return dataset['train'], dataset['test']
+
+# Process and split combined data
 combined_data_tokenized = process_combined_data('combined_data.jsonl')
-training_args = TrainingArguments(
+train_combined, eval_combined = split_dataset(combined_data_tokenized)
+
+# Process and split PDF data
+pdf_data_tokenized = process_pdf_data('pdf_data.jsonl')
+train_pdf, eval_pdf = split_dataset(pdf_data_tokenized)
+
+# Define training arguments for combined data
+training_args_combined = TrainingArguments(
     output_dir='./results',
     overwrite_output_dir=True,
-    num_train_epochs=3,
+    num_train_epochs=10,  # Set to at least 10 epochs
     per_device_train_batch_size=4,
-    save_steps=10_000,
-    save_total_limit=2,
+    evaluation_strategy="epoch",  # Evaluate at the end of each epoch
+    save_strategy="epoch",  # Save model at the end of each epoch
+    weight_decay=0.01,  # Adding weight decay
     logging_dir='./logs',
     logging_steps=500,
+    load_best_model_at_end=True,
 )
-trainer = Trainer(
+
+# Trainer for combined data
+trainer_combined = Trainer(
     model=model,
-    args=training_args,
-    train_dataset=combined_data_tokenized,
+    args=training_args_combined,
+    train_dataset=train_combined,
+    eval_dataset=eval_combined,  # Evaluation dataset
 )
-trainer.train()
+
+# Train and evaluate combined data
+trainer_combined.train()
+trainer_combined.evaluate()  # Evaluate after training
 
 # Save the fine-tuned model after training combined data
 model.save_pretrained("pdf-tuned-model-combined")
 tokenizer.save_pretrained("pdf-tuned-model-combined")
-print("conversation tuning saved to pdf-tuned-model-combined")
+print("Conversation tuning saved to pdf-tuned-model-combined")
 
-# Tokenize and fine-tune PDF data
-pdf_data_tokenized = process_pdf_data('pdf_data.jsonl')
-training_args = TrainingArguments(
+# Define training arguments for PDF data
+training_args_pdf = TrainingArguments(
     output_dir='./results_pdf',
     overwrite_output_dir=True,
-    num_train_epochs=3,
+    num_train_epochs=10,  # Set to at least 10 epochs
     per_device_train_batch_size=4,
-    save_steps=10_000,
-    save_total_limit=2,
+    evaluation_strategy="epoch",  # Evaluate at the end of each epoch
+    save_strategy="epoch",  # Save model at the end of each epoch
+    weight_decay=0.01,  # Adding weight decay
     logging_dir='./logs_pdf',
     logging_steps=500,
+    load_best_model_at_end=True,
 )
-trainer = Trainer(
+
+# Trainer for PDF data
+trainer_pdf = Trainer(
     model=model,
-    args=training_args,
-    train_dataset=pdf_data_tokenized,
+    args=training_args_pdf,
+    train_dataset=train_pdf,
+    eval_dataset=eval_pdf,  # Evaluation dataset
 )
-trainer.train()
+
+# Train and evaluate PDF data
+trainer_pdf.train()
+trainer_pdf.evaluate()  # Evaluate after training
 
 # Save the fine-tuned model after training PDF data
 model.save_pretrained("pdf-tuned-model-pdf")
 tokenizer.save_pretrained("pdf-tuned-model-pdf")
-print("pdf tuning saved to pdf-tuned-model-pdf")
+print("PDF tuning saved to pdf-tuned-model-pdf")
