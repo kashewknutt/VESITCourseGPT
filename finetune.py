@@ -11,7 +11,7 @@ dataset = load_dataset('json', data_files=jsonl_file_path, split='train')
 print("Dataset sample:", dataset[0])
 
 # Initialize the tokenizer and model
-model_name = "gpt2"  # Replace with "gpt-neo-125M" or another model if desired
+model_name = "gpt2"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
